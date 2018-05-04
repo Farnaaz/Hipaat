@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+
+<suite name="Hipaat">
+
+	<listeners>
+		<listener class-name="com.BusyQa.Hipaat.Utilities.ExtentReportManager" />
+	</listeners>
+	<test name="Regression tests">
+		
+		<classes>
+			<class name="com.BusyQa.Hipaat.TestCases.BeHO_TC_001"></class>
+			<class name="com.BusyQa.Hipaat.TestCases.BeHO_TC_006"></class>
+			<class name="com.BusyQa.Hipaat.TestCases.BeHO_TC_007"></class>
+			
+			<class name="com.BusyQa.Hipaat.TestCases.BeHO_TC_008"></class>
+			<class name="com.BusyQa.Hipaat.TestCases.BeHO_TC_009"></class>
+			<class name="com.BusyQa.Hipaat.TestCases.BeHO_TC_011"></class>
+			
+			<class name="com.BusyQa.Hipaat.TestCases.BeHO_TC_016"></class>
+			<class name="com.BusyQa.Hipaat.TestCases.BeHO_TC_017"></class>
+			<class name="com.BusyQa.Hipaat.TestCases.BeHO_TC_018"></class>
+			
+			<class name="com.BusyQa.Hipaat.TestCases.BeHO_TC_020"></class>
+			<class name="com.BusyQa.Hipaat.TestCases.BeHO_TC_021"></class>
+			<class name="com.BusyQa.Hipaat.TestCases.BeHO_TC_022"></class>
+			
+			
+
+		</classes>
+	</test>
+</suite> 

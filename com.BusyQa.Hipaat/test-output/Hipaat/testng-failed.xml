@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" guice-stage="DEVELOPMENT" name="Failed suite [Hipaat]">
+  <listeners>
+    <listener class-name="com.BusyQa.Hipaat.Utilities.ExtentReportManager"/>
+  </listeners>
+  <test name="Regression tests(failed)">
+    <classes>
+      <class name="com.BusyQa.Hipaat.TestCases.BeHO_TC_001">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="deletepolicycreation"/>
+          <include name="policycreation"/>
+        </methods>
+      </class> <!-- com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -->
+      <class name="com.BusyQa.Hipaat.TestCases.BeHO_TC_009">
+        <methods>
+          <include name="verifyAcknowledgment"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.BusyQa.Hipaat.TestCases.BeHO_TC_009 -->
+      <class name="com.BusyQa.Hipaat.TestCases.BeHO_TC_007">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="conflictPoliciescreation"/>
+        </methods>
+      </class> <!-- com.BusyQa.Hipaat.TestCases.BeHO_TC_007 -->
+      <class name="com.BusyQa.Hipaat.TestCases.BeHO_TC_006">
+        <methods>
+          <include name="addValuesUseTable"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -->
+      <class name="com.BusyQa.Hipaat.TestCases.BeHO_TC_016">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="ActivePoliciesReport"/>
+        </methods>
+      </class> <!-- com.BusyQa.Hipaat.TestCases.BeHO_TC_016 -->
+    </classes>
+  </test> <!-- Regression tests(failed) -->
+</suite> <!-- Failed suite [Hipaat] -->

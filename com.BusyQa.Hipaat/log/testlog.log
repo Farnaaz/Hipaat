@@ -1,0 +1,1717 @@
+2018-04-22 17:12:47,957 - com.BusyQa.Hipaat.TestCases.HomePage_TC -INFO - super class constructor called and properties file initiated
+2018-04-22 17:12:54,775 - com.BusyQa.Hipaat.TestCases.HomePage_TC -INFO - browser is successfully initialised
+2018-04-22 17:12:56,595 - com.BusyQa.Hipaat.TestCases.HomePage_TC -INFO - login is successfully done
+2018-04-22 17:12:56,602 - com.BusyQa.Hipaat.TestCases.HomePage_TC -INFO - start mousehover
+2018-04-22 17:52:16,253 - com.BusyQa.Hipaat.TestCases.HomePage_TC -INFO - super class constructor called and properties file initiated
+2018-04-22 17:52:33,223 - com.BusyQa.Hipaat.TestCases.HomePage_TC -INFO - browser is successfully initialised
+2018-04-22 17:52:34,760 - com.BusyQa.Hipaat.TestCases.HomePage_TC -INFO - login is successfully done
+2018-04-22 17:52:34,769 - com.BusyQa.Hipaat.TestCases.HomePage_TC -INFO - start mousehover
+2018-04-22 17:59:04,600 - com.BusyQa.Hipaat.TestCases.HomePage_TC -INFO - *****super class constructor called, properties file initiated*****
+2018-04-22 17:59:18,342 - com.BusyQa.Hipaat.TestCases.HomePage_TC -INFO - *****browser is successfully initialised*****
+2018-04-22 17:59:19,502 - com.BusyQa.Hipaat.TestCases.HomePage_TC -INFO - *****login is successfully done*****
+2018-04-22 17:59:19,513 - com.BusyQa.Hipaat.TestCases.HomePage_TC -INFO - *****start mousehover*****
+2018-04-22 18:05:57,022 - com.BusyQa.Hipaat.TestCases.HomePage_TC -INFO - *****super class constructor called, properties file initiated*****
+2018-04-22 18:06:17,178 - com.BusyQa.Hipaat.TestCases.HomePage_TC -INFO - *****browser is successfully initialised*****
+2018-04-22 18:06:19,918 - com.BusyQa.Hipaat.TestCases.HomePage_TC -INFO - *****login is successfully done*****
+2018-04-22 18:06:19,940 - com.BusyQa.Hipaat.TestCases.HomePage_TC -INFO - *****start mousehover*****
+2018-04-22 18:12:20,408 - com.BusyQa.Hipaat.TestCases.HomePage_TC -INFO - *****super class constructor called, properties file initiated*****
+2018-04-22 18:12:37,154 - com.BusyQa.Hipaat.TestCases.HomePage_TC -INFO - *****browser is successfully initialised*****
+2018-04-22 18:12:39,057 - com.BusyQa.Hipaat.TestCases.HomePage_TC -INFO - *****login is successfully done*****
+2018-04-22 18:12:39,065 - com.BusyQa.Hipaat.TestCases.HomePage_TC -INFO - *****start mousehover*****
+2018-04-22 18:12:50,068 - com.BusyQa.Hipaat.TestCases.HomePage_TC -INFO - *****element system directive clicked*****
+2018-04-22 18:16:44,020 - com.BusyQa.Hipaat.TestCases.HomePage_TC -INFO - *****super class constructor called, properties file initiated*****
+2018-04-22 18:17:00,103 - com.BusyQa.Hipaat.TestCases.HomePage_TC -INFO - *****browser is successfully initialised*****
+2018-04-22 18:17:01,500 - com.BusyQa.Hipaat.TestCases.HomePage_TC -INFO - *****login is successfully done*****
+2018-04-22 18:17:02,384 - com.BusyQa.Hipaat.TestCases.HomePage_TC -INFO - *****mousehover done, system directive clicked*****
+2018-04-22 18:25:15,162 - com.BusyQa.Hipaat.TestCases.HomePage_TC -INFO - *****browser is successfully initialised*****
+2018-04-22 18:25:16,658 - com.BusyQa.Hipaat.TestCases.HomePage_TC -INFO - *****login is successfully done*****
+2018-04-22 18:25:27,818 - com.BusyQa.Hipaat.TestCases.HomePage_TC -INFO - *****SystemDirectivepage Test case is done, Browser closed*****
+2018-04-22 18:39:58,724 - com.BusyQa.Hipaat.TestCases.HomePage_TC -INFO - *****browser is successfully initialised*****
+2018-04-22 18:40:02,113 - com.BusyQa.Hipaat.TestCases.HomePage_TC -INFO - *****login is successfully done*****
+2018-04-22 18:40:04,622 - com.BusyQa.Hipaat.TestCases.HomePage_TC -INFO - *****mousehover done, system directive clicked*****
+2018-04-22 18:40:05,245 - com.BusyQa.Hipaat.TestCases.HomePage_TC -INFO - *****SystemDirectivepage Test case is done, Browser closed*****
+2018-04-23 11:53:55,480 - com.BusyQa.Hipaat.TestCases.LoginPage_TC -INFO - *****super class constructor called and properties file initiated*****
+2018-04-23 11:53:55,512 - com.BusyQa.Hipaat.TestCases.HomePage_TC -INFO - *****super class constructor called, properties file initiated*****
+2018-04-23 12:06:08,277 - com.BusyQa.Hipaat.TestCases.HomePage_TC -INFO - *****super class constructor called, properties file initiated*****
+2018-04-23 12:06:13,656 - com.BusyQa.Hipaat.TestCases.HomePage_TC -INFO - *****browser is successfully initialised*****
+2018-04-23 12:06:15,041 - com.BusyQa.Hipaat.TestCases.HomePage_TC -INFO - *****login is successfully done*****
+2018-04-23 12:06:15,685 - com.BusyQa.Hipaat.TestCases.HomePage_TC -INFO - *****mousehover done, system directive clicked*****
+2018-04-23 12:06:16,280 - com.BusyQa.Hipaat.TestCases.HomePage_TC -INFO - *****HomePage Test case is done, Browser closed*****
+2018-04-23 12:07:36,275 - com.BusyQa.Hipaat.TestCases.HomePage_TC -INFO - *****super class constructor called, properties file initiated*****
+2018-04-23 12:07:41,733 - com.BusyQa.Hipaat.TestCases.HomePage_TC -INFO - *****browser is successfully initialised*****
+2018-04-23 12:07:42,850 - com.BusyQa.Hipaat.TestCases.HomePage_TC -INFO - *****login is successfully done*****
+2018-04-23 12:07:43,392 - com.BusyQa.Hipaat.TestCases.HomePage_TC -INFO - *****mousehover done, system directive clicked*****
+2018-04-23 13:38:50,630 - com.BusyQa.Hipaat.TestCases.HomePage_TC -INFO - *****super class constructor called, properties file initiated*****
+2018-04-23 13:38:56,620 - com.BusyQa.Hipaat.TestCases.HomePage_TC -INFO - *****browser is successfully initialised*****
+2018-04-23 13:38:57,945 - com.BusyQa.Hipaat.TestCases.HomePage_TC -INFO - *****login is successfully done*****
+2018-04-23 13:38:58,544 - com.BusyQa.Hipaat.TestCases.HomePage_TC -INFO - *****mousehover done, patient page opened *****
+2018-04-23 16:31:02,930 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****browser is successfully initialised*****
+2018-04-23 16:31:04,249 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****login is successfully done*****
+2018-04-23 16:31:06,138 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****mousehover done, landed on Patient Search page*****
+2018-04-23 16:31:06,734 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****SystemDirectivepage Test case is done, Browser closed*****
+2018-04-23 16:39:38,972 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****browser is successfully initialised*****
+2018-04-23 16:39:40,267 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****login is successfully done*****
+2018-04-23 16:39:42,717 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - ***** Patient policies Test case is done, Browser closed*****
+2018-04-23 16:41:56,772 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****browser is successfully initialised*****
+2018-04-23 16:41:57,873 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****login is successfully done*****
+2018-04-23 16:42:00,511 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****Patient Policy Detail page has been opened*****
+2018-04-23 16:42:01,114 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - ***** Patient policies Test case is done, Browser closed*****
+2018-04-23 16:49:41,580 - com.BusyQa.Hipaat.TestCases.TC1_Loginpage -INFO - *****super class constructor called and properties file initiated*****
+2018-04-23 16:49:41,603 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****super class constructor called, properties file initiated*****
+2018-04-23 16:49:47,301 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****browser is successfully initialised*****
+2018-04-23 16:49:48,568 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****login is successfully done*****
+2018-04-23 16:49:49,127 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****mousehover done, patient page opened *****
+2018-04-23 16:49:49,723 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****HomePage Test case is done, Browser closed*****
+2018-04-23 16:49:54,537 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****browser is successfully initialised*****
+2018-04-23 16:49:55,677 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****login is successfully done*****
+2018-04-23 16:49:57,531 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****mousehover done, landed on Patient Search page*****
+2018-04-23 16:49:58,118 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****SystemDirectivepage Test case is done, Browser closed*****
+2018-04-23 16:50:03,042 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****browser is successfully initialised*****
+2018-04-23 16:50:04,152 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****login is successfully done*****
+2018-04-23 16:50:06,803 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****Patient Policy Detail page has been opened*****
+2018-04-23 16:50:07,404 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - ***** Patient policies Test case is done, Browser closed*****
+2018-04-23 16:50:17,892 - com.BusyQa.Hipaat.TestCases.TC1_Loginpage -INFO - *****browser is successfully initialised*****
+2018-04-23 16:50:18,607 - com.BusyQa.Hipaat.TestCases.TC1_Loginpage -INFO - *****Login Page Test case is done, Browser closed*****
+2018-04-23 16:50:29,167 - com.BusyQa.Hipaat.TestCases.TC1_Loginpage -INFO - *****browser is successfully initialised*****
+2018-04-23 16:50:35,185 - com.BusyQa.Hipaat.TestCases.TC1_Loginpage -INFO - *****Login Page Test case is done, Browser closed*****
+2018-04-23 16:50:45,684 - com.BusyQa.Hipaat.TestCases.TC1_Loginpage -INFO - *****browser is successfully initialised*****
+2018-04-23 16:50:55,253 - com.BusyQa.Hipaat.TestCases.TC1_Loginpage -INFO - *****Login Page Test case is done, Browser closed*****
+2018-04-23 16:51:54,033 - com.BusyQa.Hipaat.TestCases.TC1_Loginpage -INFO - *****super class constructor called and properties file initiated*****
+2018-04-23 16:51:54,060 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****super class constructor called, properties file initiated*****
+2018-04-23 16:52:05,325 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****browser is successfully initialised*****
+2018-04-23 16:52:21,446 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****browser is successfully initialised*****
+2018-04-23 16:52:32,830 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****browser is successfully initialised*****
+2018-04-23 20:44:21,066 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****browser is successfully initialised*****
+2018-04-23 20:44:23,124 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****login is successfully done*****
+2018-04-23 20:45:43,061 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****browser is successfully initialised*****
+2018-04-23 20:45:45,213 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****login is successfully done*****
+2018-04-23 20:49:28,249 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****browser is successfully initialised*****
+2018-04-23 20:49:30,852 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****login is successfully done*****
+2018-04-23 21:32:04,118 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****browser is successfully initialised*****
+2018-04-23 21:32:05,991 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****login is successfully done*****
+2018-04-23 21:41:26,492 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****browser is successfully initialised*****
+2018-04-23 21:41:28,543 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****login is successfully done*****
+2018-04-23 21:45:04,713 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****browser is successfully initialised*****
+2018-04-23 21:45:06,546 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****login is successfully done*****
+2018-04-23 21:52:51,628 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****browser is successfully initialised*****
+2018-04-23 21:52:54,067 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****login is successfully done*****
+2018-04-23 22:04:20,192 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****browser is successfully initialised*****
+2018-04-23 22:04:23,232 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****login is successfully done*****
+2018-04-23 22:12:42,172 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****browser is successfully initialised*****
+2018-04-23 22:12:44,203 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****login is successfully done*****
+2018-04-23 22:18:36,908 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****browser is successfully initialised*****
+2018-04-23 22:18:39,271 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****login is successfully done*****
+2018-04-23 22:21:43,629 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****browser is successfully initialised*****
+2018-04-23 22:21:46,067 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****login is successfully done*****
+2018-04-23 22:55:17,119 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****browser is successfully initialised*****
+2018-04-23 22:55:20,446 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****login is successfully done*****
+2018-04-24 10:52:55,318 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****browser is successfully initialised*****
+2018-04-24 10:52:56,717 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****login is successfully done*****
+2018-04-24 10:53:11,098 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****Policy Detail entered successfully *****
+2018-04-24 10:53:11,705 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - ***** Test case completed, Browser closed*****
+2018-04-24 10:54:18,105 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****browser is successfully initialised*****
+2018-04-24 10:54:19,548 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****login is successfully done*****
+2018-04-24 10:54:33,928 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****Policy Detail entered successfully *****
+2018-04-24 11:10:03,069 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****browser is successfully initialised*****
+2018-04-24 11:10:04,213 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****login is successfully done*****
+2018-04-24 11:31:24,441 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****browser is successfully initialised*****
+2018-04-24 11:31:25,851 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****login is successfully done*****
+2018-04-24 11:48:41,210 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****browser is successfully initialised*****
+2018-04-24 11:48:42,443 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****login is successfully done*****
+2018-04-24 11:57:56,437 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****browser is successfully initialised*****
+2018-04-24 11:57:58,224 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****login is successfully done*****
+2018-04-24 12:01:46,233 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****browser is successfully initialised*****
+2018-04-24 12:01:47,550 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****login is successfully done*****
+2018-04-24 12:03:01,572 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****browser is successfully initialised*****
+2018-04-24 12:03:02,700 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****login is successfully done*****
+2018-04-24 12:05:48,995 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****browser is successfully initialised*****
+2018-04-24 12:05:50,393 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****login is successfully done*****
+2018-04-24 12:11:30,989 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****browser is successfully initialised*****
+2018-04-24 12:11:32,568 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****login is successfully done*****
+2018-04-24 12:13:51,964 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****browser is successfully initialised*****
+2018-04-24 12:13:53,477 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****login is successfully done*****
+2018-04-24 12:20:04,347 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****browser is successfully initialised*****
+2018-04-24 12:20:05,875 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****login is successfully done*****
+2018-04-24 12:53:16,603 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****browser is successfully initialised*****
+2018-04-24 12:53:18,060 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****login is successfully done*****
+2018-04-24 12:57:40,896 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****browser is successfully initialised*****
+2018-04-24 12:57:42,343 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****login is successfully done*****
+2018-04-24 13:04:39,251 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****browser is successfully initialised*****
+2018-04-24 13:04:40,783 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****login is successfully done*****
+2018-04-24 13:06:32,330 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****browser is successfully initialised*****
+2018-04-24 13:06:33,930 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****login is successfully done*****
+2018-04-24 13:08:47,259 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****browser is successfully initialised*****
+2018-04-24 13:08:48,620 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****login is successfully done*****
+2018-04-24 13:13:07,603 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****browser is successfully initialised*****
+2018-04-24 13:13:09,004 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****login is successfully done*****
+2018-04-24 13:33:50,579 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****browser is successfully initialised*****
+2018-04-24 13:33:52,195 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****login is successfully done*****
+2018-04-24 13:34:03,433 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - ***** Test case completed, Browser closed*****
+2018-04-24 13:37:54,800 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****browser is successfully initialised*****
+2018-04-24 13:37:56,138 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****login is successfully done*****
+2018-04-24 13:37:56,798 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****Home Page*****
+2018-04-24 13:37:58,297 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****Patient Search Page*****
+2018-04-24 13:37:59,241 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****Patient Policies Page*****
+2018-04-24 13:38:05,448 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****Policy Detail Page*****
+2018-04-24 13:38:06,089 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - ***** Test case completed, Browser closed*****
+2018-04-24 13:39:30,580 - com.BusyQa.Hipaat.TestCases.TC1_Loginpage -INFO - *****super class constructor called and properties file initiated*****
+2018-04-24 13:39:36,850 - com.BusyQa.Hipaat.TestCases.TC1_Loginpage -INFO - *****browser is successfully initialised*****
+2018-04-24 13:39:36,904 - com.BusyQa.Hipaat.TestCases.TC1_Loginpage -INFO - *****login page title verified*****
+2018-04-24 13:39:37,483 - com.BusyQa.Hipaat.TestCases.TC1_Loginpage -INFO - *****Login Page Test case is done, Browser closed*****
+2018-04-24 13:39:42,697 - com.BusyQa.Hipaat.TestCases.TC1_Loginpage -INFO - *****browser is successfully initialised*****
+2018-04-24 13:39:44,085 - com.BusyQa.Hipaat.TestCases.TC1_Loginpage -INFO - *****login successful*****
+2018-04-24 13:39:44,672 - com.BusyQa.Hipaat.TestCases.TC1_Loginpage -INFO - *****Login Page Test case is done, Browser closed*****
+2018-04-24 13:39:50,944 - com.BusyQa.Hipaat.TestCases.TC1_Loginpage -INFO - *****browser is successfully initialised*****
+2018-04-24 13:39:56,028 - com.BusyQa.Hipaat.TestCases.TC1_Loginpage -INFO - *****logo verified*****
+2018-04-24 13:39:56,621 - com.BusyQa.Hipaat.TestCases.TC1_Loginpage -INFO - *****Login Page Test case is done, Browser closed*****
+2018-04-24 13:40:30,409 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****browser is successfully initialised*****
+2018-04-24 13:40:31,652 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****login is successfully done*****
+2018-04-24 13:40:32,254 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****Home Page*****
+2018-04-24 13:40:34,870 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****Patient Search Page*****
+2018-04-24 13:40:35,839 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****Patient Policies Page*****
+2018-04-24 13:40:42,488 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****Policy Detail Page*****
+2018-04-24 13:40:43,133 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - ***** Test case completed, Browser closed*****
+2018-04-24 13:44:32,644 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****browser is successfully initialised*****
+2018-04-24 13:44:34,093 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****login is successfully done*****
+2018-04-24 13:44:34,695 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****Home Page*****
+2018-04-24 13:44:36,490 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****Patient Search Page*****
+2018-04-24 13:44:38,027 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****Patient Policies Page*****
+2018-04-24 13:44:46,264 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - *****Policy Detail Page*****
+2018-04-24 13:44:46,877 - com.BusyQa.Hipaat.TestCases.TC2_Homepage -INFO - ***** Test case completed, Browser closed*****
+2018-04-25 07:43:38,434 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****browser is successfully initialised*****
+2018-04-25 07:43:40,217 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****login is successfully done*****
+2018-04-25 07:43:40,833 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - ***** Test case completed, Browser closed*****
+2018-04-25 07:47:11,827 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****browser is successfully initialised*****
+2018-04-25 07:47:13,541 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****login is successfully done*****
+2018-04-25 07:47:14,288 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****Consent menu clicked*****
+2018-04-25 07:47:14,898 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - ***** Test case completed, Browser closed*****
+2018-04-25 07:53:50,509 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****browser is successfully initialised*****
+2018-04-25 07:53:52,103 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****login is successfully done*****
+2018-04-25 07:53:52,763 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****Consent menu clicked*****
+2018-04-25 07:54:03,693 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - ***** Test case completed, Browser closed*****
+2018-04-25 08:39:24,175 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****browser is successfully initialised*****
+2018-04-25 08:39:26,038 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****login is successfully done*****
+2018-04-25 08:39:26,752 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****Consent menu clicked*****
+2018-04-25 08:39:37,577 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - ***** Test case completed, Browser closed*****
+2018-04-25 08:40:15,456 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****browser is successfully initialised*****
+2018-04-25 08:40:16,987 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****login is successfully done*****
+2018-04-25 08:40:17,623 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****Consent menu clicked*****
+2018-04-25 08:45:30,062 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****browser is successfully initialised*****
+2018-04-25 08:45:31,693 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****login is successfully done*****
+2018-04-25 08:45:32,390 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****Consent menu clicked*****
+2018-04-25 08:53:23,864 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****browser is successfully initialised*****
+2018-04-25 08:53:25,458 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****login is successfully done*****
+2018-04-25 08:53:26,362 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****Consent menu clicked*****
+2018-04-25 08:53:28,462 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****patient search is done*****
+2018-04-25 08:53:29,616 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****entering patient policy details *****
+2018-04-25 08:53:34,853 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****provider has been added*****
+2018-04-25 08:53:36,062 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****saved button clicked*****
+2018-04-25 09:10:37,352 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****browser is successfully initialised*****
+2018-04-25 09:10:38,948 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****login is successfully done*****
+2018-04-25 09:10:39,559 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****Consent menu clicked*****
+2018-04-25 09:10:41,614 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****patient search is done*****
+2018-04-25 09:10:42,555 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****entering patient policy details *****
+2018-04-25 09:10:47,643 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****provider has been added*****
+2018-04-25 09:10:48,604 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****saved button clicked*****
+2018-04-25 09:10:50,001 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****comment saved *****
+2018-04-25 09:10:50,057 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****get text of dialog box*****
+2018-04-25 09:10:50,770 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - ***** policy activated *****
+2018-04-25 10:12:14,511 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****super class constructor called and properties file initiated*****
+2018-04-25 10:12:23,735 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****browser is successfully initialised*****
+2018-04-25 10:12:25,346 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****login is successfully done*****
+2018-04-25 10:13:20,794 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****super class constructor called and properties file initiated*****
+2018-04-25 10:13:29,542 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****browser is successfully initialised*****
+2018-04-25 10:13:32,043 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****login is successfully done*****
+2018-04-25 10:15:15,726 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****super class constructor called and properties file initiated*****
+2018-04-25 10:15:25,719 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****browser is successfully initialised*****
+2018-04-25 10:15:28,203 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****login is successfully done*****
+2018-04-25 10:15:28,461 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****entered purpose of use maintenance page*****
+2018-04-25 10:16:34,958 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****super class constructor called and properties file initiated*****
+2018-04-25 10:16:41,728 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****browser is successfully initialised*****
+2018-04-25 10:16:43,184 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****login is successfully done*****
+2018-04-25 10:16:44,340 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****entered purpose of use maintenance page*****
+2018-04-25 10:18:20,366 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****super class constructor called and properties file initiated*****
+2018-04-25 10:18:28,431 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****browser is successfully initialised*****
+2018-04-25 10:18:30,389 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****login is successfully done*****
+2018-04-25 10:18:31,756 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****entered purpose of use maintenance page*****
+2018-04-25 15:29:18,696 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****browser is successfully initialised*****
+2018-04-25 15:29:20,030 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****login is successfully done*****
+2018-04-25 15:29:20,628 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****Consent menu clicked*****
+2018-04-25 15:29:22,273 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****patient search is done*****
+2018-04-25 15:29:23,522 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****entering patient policy details *****
+2018-04-25 15:29:28,136 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****provider has been added*****
+2018-04-25 15:29:28,874 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****saved button clicked*****
+2018-04-25 15:29:29,575 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****comment saved *****
+2018-04-25 15:29:40,247 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - ***** BeHO_TC_006 Test case completed, Browser closed*****
+2018-04-25 15:34:04,379 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****browser is successfully initialised*****
+2018-04-25 15:34:05,629 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****login is successfully done*****
+2018-04-25 15:34:06,240 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****Consent menu clicked*****
+2018-04-25 15:34:07,938 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****patient search is done*****
+2018-04-25 15:34:09,153 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****entering patient policy details *****
+2018-04-25 15:34:13,706 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****provider has been added*****
+2018-04-25 15:34:14,465 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****saved button clicked*****
+2018-04-25 15:34:15,153 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****comment saved *****
+2018-04-25 15:40:41,882 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****browser is successfully initialised*****
+2018-04-25 15:40:43,238 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****login is successfully done*****
+2018-04-25 15:40:43,805 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****Consent menu clicked*****
+2018-04-25 15:40:45,449 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****patient search is done*****
+2018-04-25 15:40:46,663 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****entering patient policy details *****
+2018-04-25 15:40:51,083 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****provider has been added*****
+2018-04-25 15:40:51,799 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****saved button clicked*****
+2018-04-25 15:40:52,622 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****comment saved *****
+2018-04-25 15:45:25,596 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****browser is successfully initialised*****
+2018-04-25 15:45:27,058 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****login is successfully done*****
+2018-04-25 15:45:27,669 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****Consent menu clicked*****
+2018-04-25 15:45:29,339 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****patient search is done*****
+2018-04-25 15:45:30,545 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****entering patient policy details *****
+2018-04-25 15:45:35,313 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****provider has been added*****
+2018-04-25 15:45:36,077 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****saved button clicked*****
+2018-04-25 15:45:36,777 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****comment saved *****
+2018-04-25 15:46:56,078 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****browser is successfully initialised*****
+2018-04-25 15:46:57,274 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****login is successfully done*****
+2018-04-25 15:46:57,960 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****Consent menu clicked*****
+2018-04-25 15:46:59,660 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****patient search is done*****
+2018-04-25 15:47:01,028 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****entering patient policy details *****
+2018-04-25 15:47:05,824 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****provider has been added*****
+2018-04-25 15:47:06,647 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****saved button clicked*****
+2018-04-25 15:47:07,796 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****comment saved *****
+2018-04-25 15:51:18,420 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****browser is successfully initialised*****
+2018-04-25 15:51:19,956 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****login is successfully done*****
+2018-04-25 15:51:20,614 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****Consent menu clicked*****
+2018-04-25 15:51:22,307 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****patient search is done*****
+2018-04-25 15:51:23,605 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****entering patient policy details *****
+2018-04-25 15:51:28,636 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****provider has been added*****
+2018-04-25 15:51:29,477 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****saved button clicked*****
+2018-04-25 15:51:30,214 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****comment saved *****
+2018-04-25 15:55:15,767 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****browser is successfully initialised*****
+2018-04-25 15:55:17,646 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****login is successfully done*****
+2018-04-25 15:55:18,397 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****Consent menu clicked*****
+2018-04-25 15:55:20,427 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****patient search is done*****
+2018-04-25 15:55:21,836 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****entering patient policy details *****
+2018-04-25 15:55:27,878 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****provider has been added*****
+2018-04-25 15:55:29,169 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****saved button clicked*****
+2018-04-25 15:55:30,527 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****comment saved *****
+2018-04-25 15:58:20,801 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****browser is successfully initialised*****
+2018-04-25 15:58:22,182 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****login is successfully done*****
+2018-04-25 15:58:22,873 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****Consent menu clicked*****
+2018-04-25 15:58:24,540 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****patient search is done*****
+2018-04-25 15:58:26,091 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****entering patient policy details *****
+2018-04-25 15:58:31,630 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****provider has been added*****
+2018-04-25 15:58:32,523 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****saved button clicked*****
+2018-04-25 15:58:33,851 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****comment saved *****
+2018-04-25 16:02:53,205 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****browser is successfully initialised*****
+2018-04-25 16:02:55,018 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****login is successfully done*****
+2018-04-25 16:02:55,707 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****Consent menu clicked*****
+2018-04-25 16:02:57,771 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****patient search is done*****
+2018-04-25 16:02:59,257 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****entering patient policy details *****
+2018-04-25 16:03:08,140 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****provider has been added*****
+2018-04-25 16:03:08,956 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****saved button clicked*****
+2018-04-25 16:03:10,176 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****comment saved *****
+2018-04-25 16:03:10,232 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****get text of dialog box*****
+2018-04-25 16:03:11,007 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - ***** policy activated *****
+2018-04-25 16:03:11,592 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****Consent menu clicked*****
+2018-04-25 16:03:13,153 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****patient search is done*****
+2018-04-25 16:03:14,581 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****entering patient policy details *****
+2018-04-25 16:03:25,244 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - ***** BeHO_TC_001 Test case completed, Browser closed*****
+2018-04-25 16:05:37,954 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****browser is successfully initialised*****
+2018-04-25 16:05:39,480 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****login is successfully done*****
+2018-04-25 16:05:40,203 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****Consent menu clicked*****
+2018-04-25 16:05:41,953 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****patient search is done*****
+2018-04-25 16:05:43,316 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****entering patient policy details *****
+2018-04-25 16:05:48,497 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****provider has been added*****
+2018-04-25 16:05:49,251 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****saved button clicked*****
+2018-04-25 16:05:50,593 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****comment saved *****
+2018-04-25 16:05:50,643 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****get text of dialog box*****
+2018-04-25 16:05:51,371 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - ***** policy activated *****
+2018-04-25 16:05:52,082 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****Consent menu clicked*****
+2018-04-25 16:05:53,887 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****patient search is done*****
+2018-04-25 16:05:55,280 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****entering patient policy details *****
+2018-04-25 16:18:05,906 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****browser is successfully initialised*****
+2018-04-25 16:18:07,352 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****login is successfully done*****
+2018-04-25 16:18:08,085 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****Consent menu clicked*****
+2018-04-25 16:18:09,761 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****patient search is done*****
+2018-04-25 16:20:15,289 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****browser is successfully initialised*****
+2018-04-25 16:20:17,005 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****login is successfully done*****
+2018-04-25 16:20:17,759 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****Consent menu clicked*****
+2018-04-25 16:20:19,599 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****patient search is done*****
+2018-04-25 16:20:20,925 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****entering patient policy details *****
+2018-04-25 16:20:26,266 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****provider has been added*****
+2018-04-25 16:20:27,108 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****saved button clicked*****
+2018-04-25 16:20:28,358 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****comment saved *****
+2018-04-25 16:20:28,414 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****get text of dialog box*****
+2018-04-25 16:20:28,977 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - ***** policy activated *****
+2018-04-25 16:20:29,552 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****Consent menu clicked*****
+2018-04-25 16:20:31,150 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****patient search is done*****
+2018-04-25 16:20:32,381 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****entering patient policy details *****
+2018-04-25 16:28:38,390 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****browser is successfully initialised*****
+2018-04-25 16:28:39,892 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****login is successfully done*****
+2018-04-25 16:28:40,635 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****Consent menu clicked*****
+2018-04-25 16:28:42,473 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****patient search is done*****
+2018-04-25 16:28:43,789 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****entering patient policy details *****
+2018-04-25 16:28:48,755 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****provider has been added*****
+2018-04-25 16:28:49,536 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****saved button clicked*****
+2018-04-25 16:28:50,741 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****comment saved *****
+2018-04-25 16:28:50,794 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****get text of dialog box*****
+2018-04-25 16:28:51,457 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - ***** policy activated *****
+2018-04-25 16:28:51,999 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****Consent menu clicked*****
+2018-04-25 16:28:53,540 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****patient search is done*****
+2018-04-25 16:34:08,652 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****browser is successfully initialised*****
+2018-04-25 16:34:10,258 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****login is successfully done*****
+2018-04-25 16:34:10,969 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****Consent menu clicked*****
+2018-04-25 16:34:12,879 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****patient search is done*****
+2018-04-25 16:34:14,200 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****entering patient policy details *****
+2018-04-25 16:34:19,859 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****provider has been added*****
+2018-04-25 16:34:20,712 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****saved button clicked*****
+2018-04-25 16:34:22,000 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****comment saved *****
+2018-04-25 16:34:22,056 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****get text of dialog box*****
+2018-04-25 16:34:22,774 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - ***** policy activated *****
+2018-04-25 16:34:23,344 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****Consent menu clicked*****
+2018-04-25 16:34:25,007 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****patient search is done*****
+2018-04-25 16:36:56,322 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****browser is successfully initialised*****
+2018-04-25 16:36:57,747 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****login is successfully done*****
+2018-04-25 16:36:58,381 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****Consent menu clicked*****
+2018-04-25 16:37:00,073 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****patient search is done*****
+2018-04-25 16:37:01,062 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****entering patient policy details *****
+2018-04-25 16:37:06,062 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****provider has been added*****
+2018-04-25 16:37:06,826 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****saved button clicked*****
+2018-04-25 16:37:08,098 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****comment saved *****
+2018-04-25 16:37:08,147 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****get text of dialog box*****
+2018-04-25 16:37:08,742 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - ***** policy activated *****
+2018-04-25 16:37:09,237 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****Consent menu clicked*****
+2018-04-25 16:37:10,530 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****patient search is done*****
+2018-04-25 16:39:18,910 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****browser is successfully initialised*****
+2018-04-25 16:39:20,272 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****login is successfully done*****
+2018-04-25 16:39:20,988 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****Consent menu clicked*****
+2018-04-25 16:39:22,476 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****patient search is done*****
+2018-04-25 16:39:23,484 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****entering patient policy details *****
+2018-04-25 16:39:28,568 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****provider has been added*****
+2018-04-25 16:39:29,311 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****saved button clicked*****
+2018-04-25 16:39:30,601 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****comment saved *****
+2018-04-25 16:39:30,657 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****get text of dialog box*****
+2018-04-25 16:39:31,220 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - ***** policy activated *****
+2018-04-25 16:39:36,987 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****Consent menu clicked*****
+2018-04-25 16:39:38,226 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****patient search is done*****
+2018-04-25 16:40:33,403 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****browser is successfully initialised*****
+2018-04-25 16:40:35,076 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****login is successfully done*****
+2018-04-25 16:40:36,065 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****Consent menu clicked*****
+2018-04-25 16:40:37,697 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****patient search is done*****
+2018-04-25 16:40:38,681 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****entering patient policy details *****
+2018-04-25 16:40:43,918 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****provider has been added*****
+2018-04-25 16:40:44,739 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****saved button clicked*****
+2018-04-25 16:40:45,934 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****comment saved *****
+2018-04-25 16:40:45,990 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****get text of dialog box*****
+2018-04-25 16:40:46,693 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - ***** policy activated *****
+2018-04-25 16:43:12,201 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****browser is successfully initialised*****
+2018-04-25 16:43:13,822 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****login is successfully done*****
+2018-04-25 16:43:14,560 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****Consent menu clicked*****
+2018-04-25 16:43:16,095 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****patient search is done*****
+2018-04-25 16:43:17,151 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****entering patient policy details *****
+2018-04-25 16:43:22,387 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****provider has been added*****
+2018-04-25 16:43:23,383 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****saved button clicked*****
+2018-04-25 16:43:24,543 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****comment saved *****
+2018-04-25 16:43:24,602 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****get text of dialog box*****
+2018-04-25 16:43:25,254 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - ***** policy activated *****
+2018-04-25 16:43:25,881 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - ***** BeHO_TC_001 Test case completed, Browser closed*****
+2018-04-25 16:49:07,563 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****browser is successfully initialised*****
+2018-04-25 16:49:09,231 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****login is successfully done*****
+2018-04-25 16:49:09,860 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****Consent menu clicked*****
+2018-04-25 16:49:11,327 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****patient search is done*****
+2018-04-25 16:49:12,353 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****entering patient policy details *****
+2018-04-25 16:49:17,249 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****provider has been added*****
+2018-04-25 16:49:18,141 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****saved button clicked*****
+2018-04-25 16:49:19,564 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****comment saved *****
+2018-04-25 16:49:19,668 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****get text of dialog box*****
+2018-04-25 16:49:20,461 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - ***** policy activated *****
+2018-04-25 16:49:21,046 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - ***** BeHO_TC_006 Test case completed, Browser closed*****
+2018-04-25 19:00:42,536 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****parent class constructor called and properties file initiated*****
+2018-04-25 19:04:27,388 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****parent class constructor called and properties file initiated*****
+2018-04-25 19:06:18,425 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****parent class constructor called and properties file initiated*****
+2018-04-25 19:07:13,269 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****parent class constructor called and properties file initiated*****
+2018-04-25 19:07:19,826 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****browser is successfully initialised*****
+2018-04-25 19:07:20,442 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****login is successfully done*****
+2018-04-25 19:07:25,102 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****BeHO_TC_006 Test case is done, Browser closed*****
+2018-04-25 19:26:07,334 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****parent class constructor called and properties file initiated*****
+2018-04-25 19:27:16,352 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****parent class constructor called and properties file initiated*****
+2018-04-25 19:33:38,152 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****parent class constructor called and properties file initiated*****
+2018-04-25 19:33:45,060 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****browser is successfully initialised*****
+2018-04-25 19:33:47,231 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****login is successfully done*****
+2018-04-25 19:40:04,477 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****parent class constructor called and properties file initiated*****
+2018-04-25 19:40:10,987 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****browser is successfully initialised*****
+2018-04-25 19:40:13,006 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****login is successfully done*****
+2018-04-25 19:40:14,232 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****entered security alerts search page*****
+2018-04-25 19:41:01,982 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****parent class constructor called and properties file initiated*****
+2018-04-25 19:45:52,709 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****parent class constructor called and properties file initiated*****
+2018-04-25 19:58:17,684 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****parent class constructor called and properties file initiated*****
+2018-04-25 19:58:24,416 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****browser is successfully initialised*****
+2018-04-25 19:58:26,107 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****login is successfully done*****
+2018-04-25 19:58:26,915 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****entered security alerts search page*****
+2018-04-25 20:24:53,492 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****parent class constructor called and properties file initiated*****
+2018-04-25 20:25:00,225 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****browser is successfully initialised*****
+2018-04-25 20:25:01,916 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****login is successfully done*****
+2018-04-25 20:25:03,045 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****entered security alerts search page*****
+2018-04-25 20:29:30,566 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****parent class constructor called and properties file initiated*****
+2018-04-25 20:29:36,667 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****browser is successfully initialised*****
+2018-04-25 20:29:38,708 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****login is successfully done*****
+2018-04-25 20:29:39,335 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****entered security alerts search page*****
+2018-04-25 20:30:21,351 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****parent class constructor called and properties file initiated*****
+2018-04-25 20:30:27,888 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****browser is successfully initialised*****
+2018-04-25 20:30:29,472 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****login is successfully done*****
+2018-04-25 20:30:30,188 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****entered security alerts search page*****
+2018-04-25 20:40:34,499 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****parent class constructor called and properties file initiated*****
+2018-04-25 20:40:40,728 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****browser is successfully initialised*****
+2018-04-25 20:40:42,355 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****login is successfully done*****
+2018-04-25 20:40:42,958 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****entered security alerts search page*****
+2018-04-25 22:08:59,958 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****parent class constructor called and properties file initiated*****
+2018-04-25 22:09:06,603 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****browser is successfully initialised*****
+2018-04-25 22:09:08,047 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****login is successfully done*****
+2018-04-25 22:09:08,654 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****entered security alerts search page*****
+2018-04-25 22:11:32,864 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****parent class constructor called and properties file initiated*****
+2018-04-25 22:11:39,632 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****browser is successfully initialised*****
+2018-04-25 22:11:41,043 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****login is successfully done*****
+2018-04-25 22:11:41,665 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****entered security alerts search page*****
+2018-04-25 22:11:44,718 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****clicked search button*****
+2018-04-25 22:24:34,488 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****parent class constructor called and properties file initiated*****
+2018-04-25 22:24:41,551 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****browser is successfully initialised*****
+2018-04-25 22:24:43,471 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****login is successfully done*****
+2018-04-25 22:24:44,197 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****entered security alerts search page*****
+2018-04-25 22:24:48,793 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****clicked search button*****
+2018-04-25 22:28:18,672 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****parent class constructor called and properties file initiated*****
+2018-04-25 22:28:25,428 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****browser is successfully initialised*****
+2018-04-25 22:28:26,760 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****login is successfully done*****
+2018-04-25 22:28:27,241 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****entered security alerts search page*****
+2018-04-25 22:28:30,888 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****clicked search button*****
+2018-04-25 22:34:11,593 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****parent class constructor called and properties file initiated*****
+2018-04-25 22:34:17,884 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****browser is successfully initialised*****
+2018-04-25 22:34:19,350 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****login is successfully done*****
+2018-04-25 22:34:19,850 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****entered security alerts search page*****
+2018-04-25 22:34:22,670 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****clicked search button*****
+2018-04-25 22:44:39,076 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****parent class constructor called and properties file initiated*****
+2018-04-25 22:44:45,529 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****browser is successfully initialised*****
+2018-04-25 22:44:47,150 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****login is successfully done*****
+2018-04-25 22:45:56,302 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****parent class constructor called and properties file initiated*****
+2018-04-25 22:46:02,969 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****browser is successfully initialised*****
+2018-04-25 22:46:04,564 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****login is successfully done*****
+2018-04-25 22:46:05,301 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****entered security alerts search page*****
+2018-04-25 22:46:08,519 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****clicked search button*****
+2018-04-25 23:02:56,241 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****parent class constructor called and properties file initiated*****
+2018-04-25 23:03:02,906 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****browser is successfully initialised*****
+2018-04-25 23:03:04,396 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****login is successfully done*****
+2018-04-25 23:03:05,075 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****entered security alerts search page*****
+2018-04-25 23:03:08,172 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****clicked search button*****
+2018-04-26 15:10:58,538 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****browser is successfully initialised*****
+2018-04-26 15:11:00,822 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****login is successfully done*****
+2018-04-26 15:11:01,951 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****Consent menu clicked*****
+2018-04-26 15:11:04,674 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****patient search is done*****
+2018-04-26 15:11:06,573 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****entering patient policy details *****
+2018-04-26 15:11:16,003 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****provider has been added*****
+2018-04-26 15:11:17,548 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****saved button clicked*****
+2018-04-26 15:11:19,400 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****comment saved *****
+2018-04-26 15:11:19,496 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****get text of dialog box*****
+2018-04-26 15:11:20,669 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - ***** policy activated *****
+2018-04-26 15:11:21,441 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - ***** BeHO_TC_001 Test case completed, Browser closed*****
+2018-04-26 15:14:47,337 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****parent class constructor called and properties file initiated*****
+2018-04-26 15:14:55,111 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****browser is successfully initialised*****
+2018-04-26 15:14:56,882 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****login is successfully done*****
+2018-04-26 15:14:57,892 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****entered security alerts search page*****
+2018-04-26 15:15:02,803 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****clicked search button*****
+2018-04-26 15:26:15,007 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****parent class constructor called and properties file initiated*****
+2018-04-26 15:26:26,423 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****browser is successfully initialised*****
+2018-04-26 15:26:28,381 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****login is successfully done*****
+2018-04-26 15:26:29,372 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****entered security alerts search page*****
+2018-04-26 15:26:34,342 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****clicked search button*****
+2018-04-26 15:34:52,773 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****parent class constructor called and properties file initiated*****
+2018-04-26 15:35:06,278 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****browser is successfully initialised*****
+2018-04-26 15:35:08,212 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****login is successfully done*****
+2018-04-26 15:35:09,175 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****entered security alerts search page*****
+2018-04-26 15:35:14,222 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****clicked search button*****
+2018-04-26 15:43:22,965 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****parent class constructor called and properties file initiated*****
+2018-04-26 15:43:33,525 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****browser is successfully initialised*****
+2018-04-26 15:43:35,435 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****login is successfully done*****
+2018-04-26 15:43:36,459 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****entered security alerts search page*****
+2018-04-26 15:43:37,463 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****clicked search button*****
+2018-04-26 16:06:56,894 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****parent class constructor called and properties file initiated*****
+2018-04-26 16:07:09,186 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****browser is successfully initialised*****
+2018-04-26 16:07:11,389 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****login is successfully done*****
+2018-04-26 16:07:12,776 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****entered security alerts search page*****
+2018-04-26 16:07:13,716 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****clicked search button*****
+2018-04-26 16:10:51,210 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****parent class constructor called and properties file initiated*****
+2018-04-26 16:11:09,160 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****browser is successfully initialised*****
+2018-04-26 16:11:11,330 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****login is successfully done*****
+2018-04-26 16:11:12,551 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****entered security alerts search page*****
+2018-04-26 16:11:13,579 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****clicked search button*****
+2018-04-26 16:12:42,212 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****parent class constructor called and properties file initiated*****
+2018-04-26 16:12:54,103 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****browser is successfully initialised*****
+2018-04-26 16:12:56,468 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****login is successfully done*****
+2018-04-26 16:12:58,121 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****entered security alerts search page*****
+2018-04-26 16:12:59,418 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****clicked search button*****
+2018-04-26 16:13:42,908 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****parent class constructor called and properties file initiated*****
+2018-04-26 16:14:02,139 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****browser is successfully initialised*****
+2018-04-26 16:14:06,803 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****login is successfully done*****
+2018-04-26 16:14:08,049 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****entered security alerts search page*****
+2018-04-26 16:14:14,564 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****clicked search button*****
+2018-04-26 16:43:40,957 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****parent class constructor called and properties file initiated*****
+2018-04-26 16:43:54,243 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****browser is successfully initialised*****
+2018-04-26 16:43:56,260 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****login is successfully done*****
+2018-04-26 16:43:57,328 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****entered security alerts search page*****
+2018-04-26 16:44:02,498 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****clicked search button*****
+2018-04-26 16:45:17,021 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****parent class constructor called and properties file initiated*****
+2018-04-26 16:45:27,863 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****browser is successfully initialised*****
+2018-04-26 16:45:30,585 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****login is successfully done*****
+2018-04-26 16:45:32,102 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****entered security alerts search page*****
+2018-04-26 16:45:38,388 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****clicked search button*****
+2018-04-27 19:09:18,480 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****parent class constructor called and properties file initiated*****
+2018-04-27 19:09:27,638 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****browser is successfully initialised*****
+2018-04-27 19:09:29,615 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****login is successfully done*****
+2018-04-27 19:09:30,601 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****entered security alerts search page*****
+2018-04-27 19:09:37,366 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****clicked search button*****
+2018-04-27 19:09:43,450 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****Rows & Cols Count Down *****
+2018-04-27 19:23:12,345 - com.BusyQa.Hipaat.TestCases.BeHO_TC_009 -INFO - *****parent class constructor called and properties file initiated*****
+2018-04-27 19:23:20,949 - com.BusyQa.Hipaat.TestCases.BeHO_TC_009 -INFO - *****browser is successfully initialised*****
+2018-04-27 19:23:23,038 - com.BusyQa.Hipaat.TestCases.BeHO_TC_009 -INFO - *****login is successfully done*****
+2018-04-27 19:23:24,048 - com.BusyQa.Hipaat.TestCases.BeHO_TC_009 -INFO - *****entered security alerts search page*****
+2018-04-27 19:23:29,347 - com.BusyQa.Hipaat.TestCases.BeHO_TC_009 -INFO - *****clicked search button*****
+2018-04-27 19:24:54,900 - com.BusyQa.Hipaat.TestCases.BeHO_TC_009 -INFO - *****parent class constructor called and properties file initiated*****
+2018-04-27 19:25:04,020 - com.BusyQa.Hipaat.TestCases.BeHO_TC_009 -INFO - *****browser is successfully initialised*****
+2018-04-27 19:25:06,363 - com.BusyQa.Hipaat.TestCases.BeHO_TC_009 -INFO - *****login is successfully done*****
+2018-04-27 19:25:07,465 - com.BusyQa.Hipaat.TestCases.BeHO_TC_009 -INFO - *****entered security alerts search page*****
+2018-04-27 19:25:14,560 - com.BusyQa.Hipaat.TestCases.BeHO_TC_009 -INFO - *****clicked search button*****
+2018-04-27 19:39:33,393 - com.BusyQa.Hipaat.TestCases.BeHO_TC_009 -INFO - *****parent class constructor called and properties file initiated*****
+2018-04-27 19:39:48,603 - com.BusyQa.Hipaat.TestCases.BeHO_TC_009 -INFO - *****browser is successfully initialised*****
+2018-04-27 19:39:51,060 - com.BusyQa.Hipaat.TestCases.BeHO_TC_009 -INFO - *****login is successfully done*****
+2018-04-27 19:39:52,541 - com.BusyQa.Hipaat.TestCases.BeHO_TC_009 -INFO - *****entered security alerts search page*****
+2018-04-27 19:39:59,383 - com.BusyQa.Hipaat.TestCases.BeHO_TC_009 -INFO - *****clicked search button*****
+2018-04-27 19:51:55,464 - com.BusyQa.Hipaat.TestCases.BeHO_TC_009 -INFO - *****parent class constructor called and properties file initiated*****
+2018-04-27 19:52:05,632 - com.BusyQa.Hipaat.TestCases.BeHO_TC_009 -INFO - *****browser is successfully initialised*****
+2018-04-27 19:52:08,387 - com.BusyQa.Hipaat.TestCases.BeHO_TC_009 -INFO - *****login is successfully done*****
+2018-04-27 19:52:09,633 - com.BusyQa.Hipaat.TestCases.BeHO_TC_009 -INFO - *****entered security alerts search page*****
+2018-04-27 19:52:17,430 - com.BusyQa.Hipaat.TestCases.BeHO_TC_009 -INFO - *****clicked search button*****
+2018-04-27 21:02:02,367 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****parent class constructor called and properties file initiated*****
+2018-04-27 21:02:17,532 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****browser is successfully initialised*****
+2018-04-27 21:02:20,167 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****login is successfully done*****
+2018-04-27 21:02:21,466 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****entered security alerts search page*****
+2018-04-27 21:02:28,108 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****clicked search button*****
+2018-04-27 21:02:34,858 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****Rows & Cols Count *****
+2018-04-27 21:19:51,335 - com.BusyQa.Hipaat.TestCases.BeHO_TC_009 -INFO - *****parent class constructor called and properties file initiated*****
+2018-04-27 21:20:06,506 - com.BusyQa.Hipaat.TestCases.BeHO_TC_009 -INFO - *****browser is successfully initialised*****
+2018-04-27 21:20:08,870 - com.BusyQa.Hipaat.TestCases.BeHO_TC_009 -INFO - *****login is successfully done*****
+2018-04-27 21:20:10,184 - com.BusyQa.Hipaat.TestCases.BeHO_TC_009 -INFO - *****entered security alerts search page*****
+2018-04-27 21:20:19,421 - com.BusyQa.Hipaat.TestCases.BeHO_TC_009 -INFO - *****clicked search button*****
+2018-04-27 21:21:53,394 - com.BusyQa.Hipaat.TestCases.BeHO_TC_009 -INFO - *****parent class constructor called and properties file initiated*****
+2018-04-27 21:22:06,351 - com.BusyQa.Hipaat.TestCases.BeHO_TC_009 -INFO - *****browser is successfully initialised*****
+2018-04-27 21:22:08,471 - com.BusyQa.Hipaat.TestCases.BeHO_TC_009 -INFO - *****login is successfully done*****
+2018-04-27 21:22:09,676 - com.BusyQa.Hipaat.TestCases.BeHO_TC_009 -INFO - *****entered security alerts search page*****
+2018-04-27 21:22:16,592 - com.BusyQa.Hipaat.TestCases.BeHO_TC_009 -INFO - *****clicked search button*****
+2018-04-27 21:25:32,676 - com.BusyQa.Hipaat.TestCases.BeHO_TC_009 -INFO - *****parent class constructor called and properties file initiated*****
+2018-04-27 21:25:45,269 - com.BusyQa.Hipaat.TestCases.BeHO_TC_009 -INFO - *****browser is successfully initialised*****
+2018-04-27 21:25:47,575 - com.BusyQa.Hipaat.TestCases.BeHO_TC_009 -INFO - *****login is successfully done*****
+2018-04-27 21:25:48,749 - com.BusyQa.Hipaat.TestCases.BeHO_TC_009 -INFO - *****entered security alerts search page*****
+2018-04-27 21:25:56,927 - com.BusyQa.Hipaat.TestCases.BeHO_TC_009 -INFO - *****clicked search button*****
+2018-04-27 21:25:57,174 - com.BusyQa.Hipaat.TestCases.BeHO_TC_009 -INFO - *****message id checked*****
+2018-04-27 21:30:12,286 - com.BusyQa.Hipaat.TestCases.BeHO_TC_009 -INFO - *****parent class constructor called and properties file initiated*****
+2018-04-27 21:30:25,073 - com.BusyQa.Hipaat.TestCases.BeHO_TC_009 -INFO - *****browser is successfully initialised*****
+2018-04-27 21:30:29,535 - com.BusyQa.Hipaat.TestCases.BeHO_TC_009 -INFO - *****login is successfully done*****
+2018-04-27 21:30:31,394 - com.BusyQa.Hipaat.TestCases.BeHO_TC_009 -INFO - *****entered security alerts search page*****
+2018-04-27 21:30:39,217 - com.BusyQa.Hipaat.TestCases.BeHO_TC_009 -INFO - *****clicked search button*****
+2018-04-27 21:30:39,470 - com.BusyQa.Hipaat.TestCases.BeHO_TC_009 -INFO - *****message id checked*****
+2018-04-27 21:36:18,301 - com.BusyQa.Hipaat.TestCases.BeHO_TC_009 -INFO - *****parent class constructor called and properties file initiated*****
+2018-04-27 21:36:29,155 - com.BusyQa.Hipaat.TestCases.BeHO_TC_009 -INFO - *****browser is successfully initialised*****
+2018-04-27 21:36:31,557 - com.BusyQa.Hipaat.TestCases.BeHO_TC_009 -INFO - *****login is successfully done*****
+2018-04-27 21:36:32,817 - com.BusyQa.Hipaat.TestCases.BeHO_TC_009 -INFO - *****entered security alerts search page*****
+2018-04-27 21:36:41,936 - com.BusyQa.Hipaat.TestCases.BeHO_TC_009 -INFO - *****clicked search button*****
+2018-04-27 21:36:42,247 - com.BusyQa.Hipaat.TestCases.BeHO_TC_009 -INFO - *****message id checked*****
+2018-04-27 21:36:47,867 - com.BusyQa.Hipaat.TestCases.BeHO_TC_009 -INFO - *****clicked acknowledged button*****
+2018-04-27 21:36:55,873 - com.BusyQa.Hipaat.TestCases.BeHO_TC_009 -INFO - *****clicked back button*****
+2018-04-29 16:39:28,576 - com.BusyQa.Hipaat.TestCases.BeHO_TC_011 -INFO - *****parent class constructor called and properties file initiated*****
+2018-04-29 16:39:40,711 - com.BusyQa.Hipaat.TestCases.BeHO_TC_011 -INFO - *****browser is successfully initialised*****
+2018-04-29 16:39:42,872 - com.BusyQa.Hipaat.TestCases.BeHO_TC_011 -INFO - *****login is successfully done*****
+2018-04-29 16:39:43,195 - com.BusyQa.Hipaat.TestCases.BeHO_TC_011 -INFO - *****entered Policy Reports page*****
+2018-04-29 16:41:40,239 - com.BusyQa.Hipaat.TestCases.BeHO_TC_011 -INFO - *****parent class constructor called and properties file initiated*****
+2018-04-29 16:41:49,712 - com.BusyQa.Hipaat.TestCases.BeHO_TC_011 -INFO - *****browser is successfully initialised*****
+2018-04-29 16:41:51,785 - com.BusyQa.Hipaat.TestCases.BeHO_TC_011 -INFO - *****login is successfully done*****
+2018-04-29 16:41:53,886 - com.BusyQa.Hipaat.TestCases.BeHO_TC_011 -INFO - *****entered Policy Reports page*****
+2018-04-29 16:41:58,877 - com.BusyQa.Hipaat.TestCases.BeHO_TC_011 -INFO - *****added patient button*****
+2018-04-29 17:14:10,968 - com.BusyQa.Hipaat.TestCases.BeHO_TC_016 -INFO - *****parent class constructor called and properties file initiated*****
+2018-04-29 17:14:25,285 - com.BusyQa.Hipaat.TestCases.BeHO_TC_016 -INFO - *****browser is successfully initialised*****
+2018-04-29 17:14:27,746 - com.BusyQa.Hipaat.TestCases.BeHO_TC_016 -INFO - *****login is successfully done*****
+2018-04-29 17:14:30,849 - com.BusyQa.Hipaat.TestCases.BeHO_TC_016 -INFO - *****entered Policy Reports page*****
+2018-04-29 17:14:35,643 - com.BusyQa.Hipaat.TestCases.BeHO_TC_016 -INFO - *****added patient button*****
+2018-04-29 19:27:09,024 - com.BusyQa.Hipaat.TestCases.BeHO_TC_017 -INFO - *****parent class constructor called and properties file initiated*****
+2018-04-29 19:27:19,637 - com.BusyQa.Hipaat.TestCases.BeHO_TC_017 -INFO - *****browser is successfully initialised*****
+2018-04-29 19:27:22,002 - com.BusyQa.Hipaat.TestCases.BeHO_TC_017 -INFO - *****login is successfully done*****
+2018-04-29 19:27:23,667 - com.BusyQa.Hipaat.TestCases.BeHO_TC_017 -INFO - *****entered Audit Reports page*****
+2018-04-30 06:44:07,484 - com.BusyQa.Hipaat.TestCases.BeHO_TC_017 -INFO - *****parent class constructor called and properties file initiated*****
+2018-04-30 06:44:16,138 - com.BusyQa.Hipaat.TestCases.BeHO_TC_017 -INFO - *****browser is successfully initialised*****
+2018-04-30 06:44:18,052 - com.BusyQa.Hipaat.TestCases.BeHO_TC_017 -INFO - *****login is successfully done*****
+2018-04-30 06:44:19,668 - com.BusyQa.Hipaat.TestCases.BeHO_TC_017 -INFO - *****entered Audit Reports page*****
+2018-04-30 07:01:04,272 - com.BusyQa.Hipaat.TestCases.BeHO_TC_017 -INFO - *****parent class constructor called and properties file initiated*****
+2018-04-30 07:01:12,387 - com.BusyQa.Hipaat.TestCases.BeHO_TC_017 -INFO - *****browser is successfully initialised*****
+2018-04-30 07:01:14,318 - com.BusyQa.Hipaat.TestCases.BeHO_TC_017 -INFO - *****login is successfully done*****
+2018-04-30 07:01:15,792 - com.BusyQa.Hipaat.TestCases.BeHO_TC_017 -INFO - *****entered Audit Reports page*****
+2018-04-30 14:31:54,406 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****browser is successfully initialised*****
+2018-04-30 14:31:56,512 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****login is successfully done*****
+2018-04-30 14:40:10,557 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****browser is successfully initialised*****
+2018-04-30 14:40:13,040 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****login is successfully done*****
+2018-04-30 14:40:14,395 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****entered Help page*****
+2018-04-30 14:42:53,347 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****browser is successfully initialised*****
+2018-04-30 14:42:55,470 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****login is successfully done*****
+2018-04-30 14:42:56,839 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****entered Help page*****
+2018-04-30 14:44:08,351 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****browser is successfully initialised*****
+2018-04-30 14:44:10,330 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****login is successfully done*****
+2018-04-30 14:44:11,678 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****entered Help page*****
+2018-04-30 14:49:38,454 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****browser is successfully initialised*****
+2018-04-30 14:49:40,682 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****login is successfully done*****
+2018-04-30 14:49:42,352 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****entered Help page*****
+2018-04-30 14:54:33,361 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****browser is successfully initialised*****
+2018-04-30 14:54:35,549 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****login is successfully done*****
+2018-04-30 14:54:37,052 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****entered Help page*****
+2018-04-30 15:50:00,313 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****browser is successfully initialised*****
+2018-04-30 15:50:02,664 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****login is successfully done*****
+2018-04-30 15:52:13,564 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****browser is successfully initialised*****
+2018-04-30 15:52:15,628 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****login is successfully done*****
+2018-04-30 15:52:16,630 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****entered session management page *****
+2018-04-30 15:56:15,974 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****browser is successfully initialised*****
+2018-04-30 15:56:17,962 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****login is successfully done*****
+2018-04-30 15:56:18,916 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****entered session management page *****
+2018-04-30 15:57:49,921 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****browser is successfully initialised*****
+2018-04-30 15:57:51,993 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****login is successfully done*****
+2018-04-30 15:57:52,948 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****entered session management page *****
+2018-04-30 15:57:52,951 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****view session management page *****
+2018-04-30 16:01:17,433 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****browser is successfully initialised*****
+2018-04-30 16:01:19,431 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****login is successfully done*****
+2018-04-30 16:01:20,426 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****entered session management page *****
+2018-04-30 16:05:33,560 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****browser is successfully initialised*****
+2018-04-30 16:05:35,566 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****login is successfully done*****
+2018-04-30 16:05:36,533 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****entered session management page *****
+2018-04-30 16:06:40,608 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****browser is successfully initialised*****
+2018-04-30 16:06:42,675 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****login is successfully done*****
+2018-04-30 16:06:43,752 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****entered session management page *****
+2018-04-30 16:06:44,786 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****clear error messages button clicked *****
+2018-05-01 05:25:54,152 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****browser is successfully initialised*****
+2018-05-01 05:25:56,305 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****login is successfully done*****
+2018-05-01 05:25:57,870 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****entered Help page*****
+2018-05-01 05:28:04,052 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****browser is successfully initialised*****
+2018-05-01 05:28:05,945 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****login is successfully done*****
+2018-05-01 05:28:07,260 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****entered Help page*****
+2018-05-01 05:33:04,587 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****browser is successfully initialised*****
+2018-05-01 05:33:06,748 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****login is successfully done*****
+2018-05-01 05:33:08,276 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****entered Help page*****
+2018-05-01 05:44:58,015 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****browser is successfully initialised*****
+2018-05-01 05:45:00,023 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****login is successfully done*****
+2018-05-01 05:45:01,540 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****entered Help page*****
+2018-05-01 05:51:38,539 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****browser is successfully initialised*****
+2018-05-01 05:51:40,584 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****login is successfully done*****
+2018-05-01 05:51:41,877 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****entered Help page*****
+2018-05-01 05:59:11,265 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****browser is successfully initialised*****
+2018-05-01 05:59:13,305 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****login is successfully done*****
+2018-05-01 05:59:14,925 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****entered Help page*****
+2018-05-01 06:08:29,729 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****browser is successfully initialised*****
+2018-05-01 06:08:31,764 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****login is successfully done*****
+2018-05-01 06:08:33,098 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****entered Help page*****
+2018-05-01 06:14:13,008 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****browser is successfully initialised*****
+2018-05-01 06:14:15,098 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****login is successfully done*****
+2018-05-01 06:14:16,441 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****entered Help page*****
+2018-05-01 06:22:02,132 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****browser is successfully initialised*****
+2018-05-01 06:22:04,127 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****login is successfully done*****
+2018-05-01 06:22:05,594 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****entered Help page*****
+2018-05-01 06:29:22,736 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****browser is successfully initialised*****
+2018-05-01 06:29:24,820 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****login is successfully done*****
+2018-05-01 06:29:26,320 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****entered Help page*****
+2018-05-01 06:33:01,244 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****browser is successfully initialised*****
+2018-05-01 06:33:03,926 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****login is successfully done*****
+2018-05-01 06:33:05,808 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****entered Help page*****
+2018-05-01 06:54:28,889 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****browser is successfully initialised*****
+2018-05-01 06:54:30,966 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****login is successfully done*****
+2018-05-01 06:54:32,423 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****entered Help page*****
+2018-05-01 07:14:23,407 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****browser is successfully initialised*****
+2018-05-01 07:14:25,689 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****login is successfully done*****
+2018-05-01 07:14:27,462 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****entered Help page*****
+2018-05-01 07:18:02,258 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****browser is successfully initialised*****
+2018-05-01 07:18:04,499 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****login is successfully done*****
+2018-05-01 07:18:06,141 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****entered Help page*****
+2018-05-01 07:18:58,815 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****browser is successfully initialised*****
+2018-05-01 07:19:00,891 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****login is successfully done*****
+2018-05-01 07:19:02,727 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****entered Help page*****
+2018-05-01 07:22:47,890 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****browser is successfully initialised*****
+2018-05-01 07:22:50,373 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****login is successfully done*****
+2018-05-01 07:22:58,745 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****entered Help page*****
+2018-05-01 07:24:08,129 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****browser is successfully initialised*****
+2018-05-01 07:24:09,921 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****login is successfully done*****
+2018-05-01 07:24:11,247 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****entered Help page*****
+2018-05-01 09:00:06,267 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****browser is successfully initialised*****
+2018-05-01 09:00:08,461 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****login is successfully done*****
+2018-05-01 09:00:09,836 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****entered Help page*****
+2018-05-01 09:07:12,352 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****browser is successfully initialised*****
+2018-05-01 09:07:15,675 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****login is successfully done*****
+2018-05-01 09:07:17,259 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****entered Help page*****
+2018-05-01 12:33:23,262 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-01 12:33:27,384 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-01 12:33:29,404 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-01 12:33:40,360 - TestBaseClass -INFO - ***** BeHO_TC_001 Test case completed, Browser closed*****
+2018-05-01 12:36:15,923 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-01 12:36:19,551 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-01 12:36:21,338 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-01 12:53:08,432 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-01 12:53:14,782 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-01 12:53:17,048 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-01 12:53:18,214 - TestBaseClass -INFO - *****Consent menu clicked*****
+2018-05-01 12:53:21,369 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-01 12:53:23,551 - TestBaseClass -INFO - *****entering patient policy details *****
+2018-05-01 12:53:34,074 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-01 12:53:35,794 - TestBaseClass -INFO - *****saved button clicked*****
+2018-05-01 12:53:38,108 - TestBaseClass -INFO - *****comment saved *****
+2018-05-01 12:53:39,597 - TestBaseClass -INFO - ***** policy activated *****
+2018-05-01 13:36:22,281 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-01 13:36:26,991 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****browser is successfully initialised*****
+2018-05-01 13:36:29,445 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****login is successfully done*****
+2018-05-01 13:36:31,110 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****entered Help page*****
+2018-05-01 13:57:14,060 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-01 13:57:17,670 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****browser is successfully initialised*****
+2018-05-01 13:57:19,893 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****login is successfully done*****
+2018-05-01 13:57:21,341 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****entered Help page*****
+2018-05-01 14:01:28,370 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-01 14:01:33,515 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****browser is successfully initialised*****
+2018-05-01 14:01:35,916 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****login is successfully done*****
+2018-05-01 14:01:37,778 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****entered Help page*****
+2018-05-01 14:10:03,258 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-01 14:10:07,064 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****browser is successfully initialised*****
+2018-05-01 14:10:09,079 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****login is successfully done*****
+2018-05-01 14:10:10,505 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****entered Help page*****
+2018-05-01 14:12:27,950 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-01 14:12:33,838 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-01 14:12:35,837 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-01 14:12:36,872 - TestBaseClass -INFO - *****Consent menu clicked*****
+2018-05-01 14:12:39,377 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-01 14:12:41,250 - TestBaseClass -INFO - *****entering patient policy details *****
+2018-05-01 14:12:51,236 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-01 14:12:52,631 - TestBaseClass -INFO - *****saved button clicked*****
+2018-05-01 14:12:54,700 - TestBaseClass -INFO - *****comment saved *****
+2018-05-01 14:12:55,972 - TestBaseClass -INFO - ***** policy activated *****
+2018-05-01 14:12:56,931 - TestBaseClass -INFO - ***** BeHO_TC_001 Test case completed, Browser closed*****
+2018-05-01 14:18:59,562 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-01 14:19:04,150 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****browser is successfully initialised*****
+2018-05-01 14:19:06,104 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****login is successfully done*****
+2018-05-01 14:23:39,625 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-01 14:23:44,356 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****browser is successfully initialised*****
+2018-05-01 14:23:46,422 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****login is successfully done*****
+2018-05-01 14:24:55,887 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-01 14:25:00,615 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****browser is successfully initialised*****
+2018-05-01 14:25:02,898 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****login is successfully done*****
+2018-05-01 14:25:04,648 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****entered Help page*****
+2018-05-01 14:52:19,784 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-01 14:52:25,146 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****browser is successfully initialised*****
+2018-05-01 14:52:27,257 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****login is successfully done*****
+2018-05-01 14:52:28,680 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****entered Help page*****
+2018-05-01 14:53:38,747 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-01 14:53:45,131 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****browser is successfully initialised*****
+2018-05-01 14:53:48,021 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****login is successfully done*****
+2018-05-01 14:53:50,186 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****entered Help page*****
+2018-05-01 16:01:29,760 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-01 16:01:34,854 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****browser is successfully initialised*****
+2018-05-01 16:01:36,975 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****login is successfully done*****
+2018-05-01 16:01:39,367 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****entered Help page*****
+2018-05-01 16:13:26,703 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-01 16:13:30,770 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****browser is successfully initialised*****
+2018-05-01 16:13:32,777 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****login is successfully done*****
+2018-05-01 16:13:34,112 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****entered Help page*****
+2018-05-02 07:06:16,991 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-02 07:06:20,595 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****browser is successfully initialised*****
+2018-05-02 07:06:22,808 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****login is successfully done*****
+2018-05-02 07:06:24,327 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****entered Help page*****
+2018-05-02 07:19:18,106 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-02 07:19:22,250 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****browser is successfully initialised*****
+2018-05-02 07:19:24,220 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****login is successfully done*****
+2018-05-02 07:19:25,866 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****entered Help page*****
+2018-05-02 07:24:17,289 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-02 07:24:21,862 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****browser is successfully initialised*****
+2018-05-02 07:24:23,843 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****login is successfully done*****
+2018-05-02 07:24:25,281 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****entered Help page*****
+2018-05-02 09:59:12,593 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-02 09:59:16,705 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****browser is successfully initialised*****
+2018-05-02 09:59:19,033 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****login is successfully done*****
+2018-05-02 09:59:20,754 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****entered Help page*****
+2018-05-02 10:05:34,809 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-02 10:05:39,652 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****browser is successfully initialised*****
+2018-05-02 10:05:42,042 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****login is successfully done*****
+2018-05-02 10:06:00,564 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****entered Help page*****
+2018-05-02 10:09:49,805 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-02 10:09:53,935 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****browser is successfully initialised*****
+2018-05-02 10:09:56,190 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****login is successfully done*****
+2018-05-02 10:10:17,890 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****entered Help page*****
+2018-05-02 10:12:23,080 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-02 10:12:27,081 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****browser is successfully initialised*****
+2018-05-02 10:12:29,287 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****login is successfully done*****
+2018-05-02 10:12:37,158 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****entered Help page*****
+2018-05-02 10:30:59,705 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-02 10:31:03,539 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****browser is successfully initialised*****
+2018-05-02 10:31:05,530 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****login is successfully done*****
+2018-05-02 10:31:06,888 - com.BusyQa.Hipaat.TestCases.BeHO_TC_019 -INFO - *****entered Help page*****
+2018-05-02 18:41:08,110 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-02 18:41:11,826 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-02 18:41:14,025 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-02 18:41:15,435 - TestBaseClass -INFO - *****entered Help page*****
+2018-05-02 18:43:17,831 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-02 18:43:22,532 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-02 18:43:24,424 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-02 18:43:25,788 - TestBaseClass -INFO - *****entered Help page*****
+2018-05-02 18:45:20,968 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-02 18:45:24,709 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-02 18:45:26,721 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-02 18:45:28,180 - TestBaseClass -INFO - *****entered Help page*****
+2018-05-02 18:52:20,744 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-02 18:52:24,348 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-02 18:52:26,264 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-02 18:52:27,540 - TestBaseClass -INFO - *****entered Help page*****
+2018-05-02 18:54:12,477 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-02 18:54:16,343 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-02 18:54:18,409 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-02 18:54:19,822 - TestBaseClass -INFO - *****entered Help page*****
+2018-05-02 19:15:54,098 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-02 19:15:58,077 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-02 19:16:00,097 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-02 19:16:01,246 - TestBaseClass -INFO - *****Management page clicked *****
+2018-05-02 19:16:02,308 - TestBaseClass -INFO - *****entered Help page*****
+2018-05-02 19:22:53,074 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-02 19:22:58,317 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-02 19:23:00,732 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-02 19:24:35,584 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-02 19:24:39,420 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-02 19:24:41,540 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-02 19:27:20,042 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-02 19:27:23,811 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-02 19:27:25,643 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-02 19:28:09,779 - com.BusyQa.Hipaat.TestCases.BeHO_TC_011 -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-02 19:28:14,038 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-02 19:28:17,535 - com.BusyQa.Hipaat.TestCases.BeHO_TC_011 -INFO - *****browser is successfully initialised*****
+2018-05-02 19:28:19,364 - com.BusyQa.Hipaat.TestCases.BeHO_TC_011 -INFO - *****login is successfully done*****
+2018-05-02 19:28:20,458 - com.BusyQa.Hipaat.TestCases.BeHO_TC_011 -INFO - *****BeHO_TC_011 Test case is done, Browser closed*****
+2018-05-02 19:29:10,208 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-02 19:29:15,139 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-02 19:29:17,030 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-02 19:31:16,785 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-02 19:31:21,670 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-02 19:31:23,578 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-02 19:31:25,896 - TestBaseClass -INFO - *****entered Policy Reports page*****
+2018-05-02 19:31:27,069 - TestBaseClass -INFO - *****entered Help page*****
+2018-05-02 19:33:58,271 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-02 19:34:02,170 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-02 19:34:04,256 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-02 19:34:06,742 - TestBaseClass -INFO - *****entered Policy Reports page*****
+2018-05-02 19:34:07,045 - TestBaseClass -INFO - *****entered Help page*****
+2018-05-02 19:39:21,784 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-02 19:39:26,968 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-02 19:39:29,033 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-02 19:39:30,424 - TestBaseClass -INFO - *****entered Help page*****
+2018-05-02 19:39:41,362 - TestBaseClass -INFO - *****BeHO_TC_020 Test case is done, Browser closed*****
+2018-05-02 19:44:52,092 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-02 19:44:56,275 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-02 19:44:58,388 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-02 19:44:58,658 - TestBaseClass -INFO - *****Consent menu clicked*****
+2018-05-02 19:45:09,453 - TestBaseClass -INFO - ***** BeHO_TC_001 Test case completed, Browser closed*****
+2018-05-02 19:46:49,545 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-02 19:46:53,732 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-02 19:46:55,644 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-02 19:46:56,868 - TestBaseClass -INFO - *****Consent menu clicked*****
+2018-05-02 19:46:59,332 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-02 19:47:01,231 - TestBaseClass -INFO - *****entering patient policy details *****
+2018-05-02 19:47:10,594 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-02 19:47:12,035 - TestBaseClass -INFO - *****saved button clicked*****
+2018-05-02 19:47:13,873 - TestBaseClass -INFO - *****comment saved *****
+2018-05-02 19:47:14,989 - TestBaseClass -INFO - ***** policy activated *****
+2018-05-02 19:47:15,758 - TestBaseClass -INFO - ***** BeHO_TC_001 Test case completed, Browser closed*****
+2018-05-02 19:48:04,107 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-02 19:48:08,384 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-02 19:48:12,511 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****browser is successfully initialised*****
+2018-05-02 19:48:14,540 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****login is successfully done*****
+2018-05-02 19:48:15,934 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****entered purpose of use maintenance page*****
+2018-05-02 19:48:16,845 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****BeHO_TC_006 Test case is done, Browser closed*****
+2018-05-02 19:50:46,442 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-02 19:50:50,527 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-02 19:50:52,503 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-02 19:50:53,533 - TestBaseClass -INFO - *****Management page clicked*****
+2018-05-02 19:50:55,989 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-02 19:50:57,855 - TestBaseClass -INFO - *****entering patient policy details *****
+2018-05-02 19:51:07,363 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-02 19:51:08,888 - TestBaseClass -INFO - *****saved button clicked*****
+2018-05-02 19:51:10,880 - TestBaseClass -INFO - *****comment saved *****
+2018-05-02 19:51:10,978 - TestBaseClass -INFO - *****read the text of dialog box*****
+2018-05-02 19:51:11,941 - TestBaseClass -INFO - ***** policy activated *****
+2018-05-02 19:51:12,733 - TestBaseClass -INFO - ***** BeHO_TC_007 Test case completed, Browser closed*****
+2018-05-02 19:57:04,530 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-02 19:57:09,060 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-02 19:57:13,159 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****browser is successfully initialised*****
+2018-05-02 19:57:15,207 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****login is successfully done*****
+2018-05-02 19:57:16,588 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****entered purpose of use maintenance page*****
+2018-05-02 19:57:17,878 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****value added in purpose of use table *****
+2018-05-02 19:57:18,246 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****value deleted in purpose of use table*****
+2018-05-02 19:57:19,025 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****BeHO_TC_006 Test case is done, Browser closed*****
+2018-05-02 19:57:37,543 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-02 19:57:41,650 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-02 19:57:45,769 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****browser is successfully initialised*****
+2018-05-02 19:57:47,644 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****login is successfully done*****
+2018-05-02 19:57:48,985 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****entered purpose of use maintenance page*****
+2018-05-02 19:57:49,933 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****BeHO_TC_006 Test case is done, Browser closed*****
+2018-05-02 19:59:18,092 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-02 19:59:22,462 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-02 19:59:26,569 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****browser is successfully initialised*****
+2018-05-02 19:59:28,948 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****login is successfully done*****
+2018-05-02 19:59:30,357 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****entered purpose of use maintenance page*****
+2018-05-02 20:15:55,949 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-02 20:16:01,694 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-02 20:16:07,591 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****browser is successfully initialised*****
+2018-05-02 20:16:09,869 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****login is successfully done*****
+2018-05-02 20:16:11,427 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****entered purpose of use maintenance page*****
+2018-05-02 20:16:12,699 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****value added in purpose of use table *****
+2018-05-02 20:17:32,710 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-02 20:17:36,867 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-02 20:17:41,460 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****browser is successfully initialised*****
+2018-05-02 20:17:43,543 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****login is successfully done*****
+2018-05-02 20:17:44,956 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****entered purpose of use maintenance page*****
+2018-05-02 20:18:35,831 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-02 20:18:41,232 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-02 20:18:46,976 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****browser is successfully initialised*****
+2018-05-02 20:18:49,139 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****login is successfully done*****
+2018-05-02 20:18:51,567 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****entered purpose of use maintenance page*****
+2018-05-02 20:21:27,056 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-02 20:21:32,886 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-02 20:21:38,160 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****browser is successfully initialised*****
+2018-05-02 20:21:40,440 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****login is successfully done*****
+2018-05-02 20:21:41,830 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****entered purpose of use maintenance page*****
+2018-05-02 20:21:43,279 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****value added in purpose of use table *****
+2018-05-02 20:28:23,277 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-02 20:28:30,352 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-02 20:28:35,473 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****browser is successfully initialised*****
+2018-05-02 20:28:37,718 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****login is successfully done*****
+2018-05-02 20:28:39,355 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****entered purpose of use maintenance page*****
+2018-05-02 20:32:42,236 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-02 20:32:47,936 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-02 20:32:53,697 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****browser is successfully initialised*****
+2018-05-02 20:32:56,221 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****login is successfully done*****
+2018-05-02 20:32:58,382 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****entered purpose of use maintenance page*****
+2018-05-02 20:33:00,548 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****value added in purpose of use table *****
+2018-05-02 20:34:44,357 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-02 20:34:50,659 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-02 20:35:04,579 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****browser is successfully initialised*****
+2018-05-02 20:35:11,673 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****login is successfully done*****
+2018-05-02 20:35:13,887 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****entered purpose of use maintenance page*****
+2018-05-02 20:35:15,851 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****value added in purpose of use table *****
+2018-05-02 20:40:50,908 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-02 20:40:59,628 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-02 20:41:05,821 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****browser is successfully initialised*****
+2018-05-02 20:41:09,765 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****login is successfully done*****
+2018-05-02 20:41:13,981 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****entered purpose of use maintenance page*****
+2018-05-02 20:41:18,185 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****value added in purpose of use table *****
+2018-05-02 20:42:01,146 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-02 20:42:10,125 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-02 20:42:17,467 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****browser is successfully initialised*****
+2018-05-02 20:42:21,735 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****login is successfully done*****
+2018-05-02 20:42:25,222 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****entered purpose of use maintenance page*****
+2018-05-02 20:43:36,935 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-02 20:43:47,720 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-02 20:44:14,533 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****browser is successfully initialised*****
+2018-05-02 20:44:22,490 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****login is successfully done*****
+2018-05-02 20:44:25,819 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****entered purpose of use maintenance page*****
+2018-05-02 20:44:30,247 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****value added in purpose of use table *****
+2018-05-02 21:02:05,712 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-02 21:02:11,883 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-02 21:02:15,679 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****browser is successfully initialised*****
+2018-05-02 21:02:17,756 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****login is successfully done*****
+2018-05-02 21:02:19,208 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****entered purpose of use maintenance page*****
+2018-05-02 21:26:18,392 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-02 21:26:22,680 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-02 21:26:26,662 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****browser is successfully initialised*****
+2018-05-02 21:26:30,502 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****login is successfully done*****
+2018-05-02 21:26:32,039 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****entered purpose of use maintenance page*****
+2018-05-02 21:26:33,357 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****value added in purpose of use table *****
+2018-05-02 21:40:46,902 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-02 21:40:52,311 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-02 21:40:58,430 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****browser is successfully initialised*****
+2018-05-02 21:41:00,764 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****login is successfully done*****
+2018-05-02 21:41:02,189 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****entered purpose of use maintenance page*****
+2018-05-02 21:41:03,640 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****value added in purpose of use table *****
+2018-05-02 21:42:02,353 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-02 21:42:07,541 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-02 21:42:12,635 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****browser is successfully initialised*****
+2018-05-02 21:42:14,577 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****login is successfully done*****
+2018-05-02 21:42:16,054 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****entered purpose of use maintenance page*****
+2018-05-02 21:42:17,371 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****value added in purpose of use table *****
+2018-05-02 21:43:02,621 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-02 21:43:08,379 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-02 21:43:13,844 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****browser is successfully initialised*****
+2018-05-02 21:43:15,865 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****login is successfully done*****
+2018-05-02 21:43:17,304 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****entered purpose of use maintenance page*****
+2018-05-02 21:43:18,778 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****value added in purpose of use table *****
+2018-05-02 22:05:41,069 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-02 22:05:46,820 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-02 22:05:51,055 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****browser is successfully initialised*****
+2018-05-02 22:05:53,043 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****login is successfully done*****
+2018-05-02 22:05:54,550 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****entered purpose of use maintenance page*****
+2018-05-02 22:05:55,917 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****value added in purpose of use table *****
+2018-05-02 22:07:52,471 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-02 22:07:56,825 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-02 22:08:00,857 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****browser is successfully initialised*****
+2018-05-02 22:08:02,872 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****login is successfully done*****
+2018-05-02 22:08:04,268 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****entered purpose of use maintenance page*****
+2018-05-02 22:08:05,724 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****value added in purpose of use table *****
+2018-05-02 22:08:08,822 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****BeHO_TC_006 Test case is done, Browser closed*****
+2018-05-02 22:12:01,332 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-02 22:12:05,950 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-02 22:12:10,728 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****browser is successfully initialised*****
+2018-05-02 22:12:13,050 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****login is successfully done*****
+2018-05-02 22:12:14,645 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****entered purpose of use maintenance page*****
+2018-05-02 22:12:16,046 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****value added in purpose of use table *****
+2018-05-02 22:12:18,706 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****BeHO_TC_006 Test case is done, Browser closed*****
+2018-05-02 22:12:55,014 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-02 22:12:59,824 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-02 22:13:04,269 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****browser is successfully initialised*****
+2018-05-02 22:13:06,375 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****login is successfully done*****
+2018-05-02 22:13:07,913 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****entered purpose of use maintenance page*****
+2018-05-02 22:13:09,439 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****value added in purpose of use table *****
+2018-05-02 22:15:20,672 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-02 22:15:25,143 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-02 22:15:29,770 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****browser is successfully initialised*****
+2018-05-02 22:15:31,895 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****login is successfully done*****
+2018-05-02 22:15:33,504 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****entered purpose of use maintenance page*****
+2018-05-02 22:15:35,026 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****value added in purpose of use table *****
+2018-05-02 22:20:55,290 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-02 22:20:59,623 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-02 22:21:03,883 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****browser is successfully initialised*****
+2018-05-02 22:21:06,099 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****login is successfully done*****
+2018-05-02 22:21:07,633 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****entered purpose of use maintenance page*****
+2018-05-02 22:21:09,204 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****value added in purpose of use table *****
+2018-05-02 22:24:04,564 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-02 22:24:09,821 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-02 22:24:16,223 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****browser is successfully initialised*****
+2018-05-02 22:24:19,102 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****login is successfully done*****
+2018-05-02 22:24:21,196 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****entered purpose of use maintenance page*****
+2018-05-02 22:24:23,387 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****value added in purpose of use table *****
+2018-05-02 22:25:20,627 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-02 22:25:25,613 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-02 22:25:29,653 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****browser is successfully initialised*****
+2018-05-02 22:25:31,718 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****login is successfully done*****
+2018-05-02 22:25:33,351 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****entered purpose of use maintenance page*****
+2018-05-02 22:25:34,715 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****value added in purpose of use table *****
+2018-05-02 22:27:00,043 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-02 22:27:04,313 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-02 22:27:09,208 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****browser is successfully initialised*****
+2018-05-02 22:27:11,715 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****login is successfully done*****
+2018-05-02 22:27:13,218 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****entered purpose of use maintenance page*****
+2018-05-02 22:27:14,752 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****value added in purpose of use table *****
+2018-05-02 23:17:50,125 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-02 23:17:55,023 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-02 23:17:59,744 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****browser is successfully initialised*****
+2018-05-02 23:18:01,758 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****login is successfully done*****
+2018-05-02 23:18:03,144 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****entered purpose of use maintenance page*****
+2018-05-02 23:18:04,550 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****value added in purpose of use table *****
+2018-05-02 23:18:49,171 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-02 23:18:54,765 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-02 23:19:00,130 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****browser is successfully initialised*****
+2018-05-02 23:19:02,228 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****login is successfully done*****
+2018-05-02 23:19:03,921 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****entered purpose of use maintenance page*****
+2018-05-02 23:19:05,741 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****value added in purpose of use table *****
+2018-05-02 23:25:28,207 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-02 23:25:33,583 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-02 23:25:39,633 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****browser is successfully initialised*****
+2018-05-02 23:25:42,615 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****login is successfully done*****
+2018-05-02 23:25:44,647 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****entered purpose of use maintenance page*****
+2018-05-02 23:25:46,469 - com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -INFO - *****value added in purpose of use table *****
+2018-05-03 11:46:56,189 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-03 11:47:00,998 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-03 11:47:03,097 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-03 11:47:04,137 - TestBaseClass -INFO - *****Management page clicked*****
+2018-05-03 11:47:06,644 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-03 11:47:08,480 - TestBaseClass -INFO - *****entering patient policy details *****
+2018-05-03 11:47:18,100 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-03 11:47:19,658 - TestBaseClass -INFO - *****saved button clicked*****
+2018-05-03 11:47:21,633 - TestBaseClass -INFO - *****comment saved *****
+2018-05-03 11:47:21,725 - TestBaseClass -INFO - *****read the text of dialog box*****
+2018-05-03 11:47:22,753 - TestBaseClass -INFO - ***** policy activated *****
+2018-05-03 11:47:23,491 - TestBaseClass -INFO - ***** BeHO_TC_007 Test case completed, Browser closed*****
+2018-05-03 11:54:04,576 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-03 11:54:08,563 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-03 11:54:10,476 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-03 11:54:11,774 - TestBaseClass -INFO - *****Management page clicked*****
+2018-05-03 11:54:14,271 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-03 11:54:16,199 - TestBaseClass -INFO - *****entering patient policy details *****
+2018-05-03 11:54:24,999 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-03 11:54:26,353 - TestBaseClass -INFO - *****saved button clicked*****
+2018-05-03 11:54:28,203 - TestBaseClass -INFO - *****comment saved *****
+2018-05-03 11:54:28,271 - TestBaseClass -INFO - *****read the text of dialog box*****
+2018-05-03 11:54:29,261 - TestBaseClass -INFO - ***** deny all policy created and activated *****
+2018-05-03 11:54:30,153 - TestBaseClass -INFO - *****Management page clicked*****
+2018-05-03 11:54:32,364 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-03 11:54:34,057 - TestBaseClass -INFO - *****entering patient policy details *****
+2018-05-03 11:54:42,529 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-03 11:54:43,896 - TestBaseClass -INFO - *****saved button clicked*****
+2018-05-03 11:54:45,753 - TestBaseClass -INFO - *****comment saved *****
+2018-05-03 11:54:45,823 - TestBaseClass -INFO - *****read the text of dialog box*****
+2018-05-03 11:54:47,268 - TestBaseClass -INFO - ***** Allow all policy created and activated *****
+2018-05-03 12:24:36,175 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-03 12:24:40,032 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-03 12:24:42,013 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-03 12:24:42,886 - TestBaseClass -INFO - ***** BeHO_TC_001 Test case completed, Browser closed*****
+2018-05-03 12:25:23,433 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-03 12:25:27,391 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-03 12:25:29,561 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-03 12:25:30,656 - TestBaseClass -INFO - *****Consent menu clicked*****
+2018-05-03 12:25:33,237 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-03 12:25:35,225 - TestBaseClass -INFO - *****entering patient policy details *****
+2018-05-03 12:25:44,421 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-03 12:25:45,967 - TestBaseClass -INFO - *****saved button clicked*****
+2018-05-03 12:25:47,843 - TestBaseClass -INFO - *****comment saved *****
+2018-05-03 12:25:49,069 - TestBaseClass -INFO - ***** policy activated *****
+2018-05-03 12:25:49,861 - TestBaseClass -INFO - ***** BeHO_TC_001 Test case completed, Browser closed*****
+2018-05-03 12:28:14,292 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-03 12:28:17,732 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-03 12:28:19,545 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-03 12:28:20,520 - TestBaseClass -INFO - *****Consent menu clicked*****
+2018-05-03 12:28:22,987 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-03 12:28:24,989 - TestBaseClass -INFO - *****entering patient policy details *****
+2018-05-03 12:28:34,145 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-03 12:28:35,580 - TestBaseClass -INFO - *****saved button clicked*****
+2018-05-03 12:28:37,479 - TestBaseClass -INFO - *****comment saved *****
+2018-05-03 12:28:38,713 - TestBaseClass -INFO - ***** policy activated *****
+2018-05-03 12:33:56,035 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-03 12:33:59,898 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-03 12:34:01,693 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-03 12:34:02,745 - TestBaseClass -INFO - *****Consent menu clicked*****
+2018-05-03 12:34:05,347 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-03 12:34:07,291 - TestBaseClass -INFO - *****entering patient policy details *****
+2018-05-03 12:34:18,483 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-03 12:34:20,554 - TestBaseClass -INFO - *****saved button clicked*****
+2018-05-03 12:34:23,051 - TestBaseClass -INFO - *****comment saved *****
+2018-05-03 12:34:24,160 - TestBaseClass -INFO - ***** policy activated *****
+2018-05-03 12:42:26,319 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-03 12:42:35,305 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-03 12:42:37,433 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-03 12:42:38,649 - TestBaseClass -INFO - *****Consent menu clicked*****
+2018-05-03 12:42:41,311 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-03 12:42:43,906 - TestBaseClass -INFO - *****entering patient policy details *****
+2018-05-03 12:42:54,123 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-03 12:42:55,823 - TestBaseClass -INFO - *****saved button clicked*****
+2018-05-03 12:42:58,026 - TestBaseClass -INFO - *****comment saved *****
+2018-05-03 12:42:59,524 - TestBaseClass -INFO - ***** policy activated *****
+2018-05-03 12:45:35,375 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-03 12:45:39,242 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-03 12:45:41,261 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-03 12:45:42,445 - TestBaseClass -INFO - *****Consent menu clicked*****
+2018-05-03 12:45:44,992 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-03 12:45:46,671 - TestBaseClass -INFO - *****entering patient policy details *****
+2018-05-03 12:45:55,781 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-03 12:45:57,196 - TestBaseClass -INFO - *****saved button clicked*****
+2018-05-03 12:45:59,422 - TestBaseClass -INFO - *****comment saved *****
+2018-05-03 12:46:00,689 - TestBaseClass -INFO - ***** policy activated *****
+2018-05-03 12:49:59,469 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-03 12:50:03,964 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-03 12:50:05,989 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-03 12:50:06,795 - TestBaseClass -INFO - ***** BeHO_TC_001 Test case completed, Browser closed*****
+2018-05-03 12:51:00,142 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-03 12:51:04,580 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-03 12:51:06,569 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-03 12:51:22,800 - TestBaseClass -INFO - ***** BeHO_TC_001 Test case completed, Browser closed*****
+2018-05-03 12:52:43,216 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-03 12:52:47,227 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-03 12:52:49,145 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-03 12:52:58,289 - TestBaseClass -INFO - ***** BeHO_TC_001 Test case completed, Browser closed*****
+2018-05-03 12:54:04,965 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-03 12:54:10,921 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-03 12:54:12,851 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-03 12:56:24,309 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-03 12:56:30,752 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-03 12:56:32,792 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-03 12:56:41,105 - TestBaseClass -INFO - clicked on revoke btn
+2018-05-03 13:03:15,322 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-03 13:03:22,808 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-03 13:03:25,567 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-03 13:06:37,570 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-03 13:06:41,333 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-03 13:06:43,313 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-03 13:08:42,549 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-03 13:08:45,850 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-03 13:08:47,630 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-03 13:08:55,519 - TestBaseClass -INFO - clicked on revoke btn
+2018-05-03 13:09:43,958 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-03 13:09:47,559 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-03 13:09:49,948 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-03 13:09:57,594 - TestBaseClass -INFO - clicked on revoke btn
+2018-05-03 13:12:24,526 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-03 13:12:30,718 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-03 13:12:32,591 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-03 13:12:41,349 - TestBaseClass -INFO - clicked on revoke btn
+2018-05-03 13:15:09,169 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-03 13:15:14,673 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-03 13:15:16,946 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-03 13:15:25,531 - TestBaseClass -INFO - clicked on revoke btn
+2018-05-03 13:15:28,085 - TestBaseClass -INFO - ***** BeHO_TC_001 Test case completed, Browser closed*****
+2018-05-03 13:15:32,062 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-03 13:15:37,132 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-03 13:15:39,049 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-03 13:15:48,969 - TestBaseClass -INFO - clicked on revoke btn
+2018-05-03 13:15:51,736 - TestBaseClass -INFO - ***** BeHO_TC_001 Test case completed, Browser closed*****
+2018-05-03 13:15:56,588 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-03 13:16:01,994 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-03 13:16:03,821 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-03 13:16:11,280 - TestBaseClass -INFO - clicked on revoke btn
+2018-05-03 13:16:13,809 - TestBaseClass -INFO - ***** BeHO_TC_001 Test case completed, Browser closed*****
+2018-05-03 13:16:18,462 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-03 13:16:22,544 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-03 13:16:24,562 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-03 13:16:33,028 - TestBaseClass -INFO - clicked on revoke btn
+2018-05-03 13:16:35,327 - TestBaseClass -INFO - ***** BeHO_TC_001 Test case completed, Browser closed*****
+2018-05-03 13:16:38,734 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-03 13:16:43,068 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-03 13:16:45,008 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-03 13:16:53,007 - TestBaseClass -INFO - clicked on revoke btn
+2018-05-03 13:16:55,602 - TestBaseClass -INFO - ***** BeHO_TC_001 Test case completed, Browser closed*****
+2018-05-03 13:16:59,548 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-03 13:17:04,627 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-03 13:17:06,849 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-03 13:17:14,751 - TestBaseClass -INFO - clicked on revoke btn
+2018-05-03 13:17:16,983 - TestBaseClass -INFO - ***** BeHO_TC_001 Test case completed, Browser closed*****
+2018-05-03 13:17:20,384 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-03 13:17:24,553 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-03 13:17:26,706 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-03 13:17:34,213 - TestBaseClass -INFO - clicked on revoke btn
+2018-05-03 13:17:36,436 - TestBaseClass -INFO - ***** BeHO_TC_001 Test case completed, Browser closed*****
+2018-05-03 13:17:40,380 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-03 13:17:44,626 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-03 13:17:46,892 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-03 13:17:54,277 - TestBaseClass -INFO - clicked on revoke btn
+2018-05-03 13:17:56,412 - TestBaseClass -INFO - ***** BeHO_TC_001 Test case completed, Browser closed*****
+2018-05-03 13:18:00,675 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-03 13:18:04,474 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-03 13:18:06,326 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-03 13:18:14,502 - TestBaseClass -INFO - clicked on revoke btn
+2018-05-03 13:18:17,138 - TestBaseClass -INFO - ***** BeHO_TC_001 Test case completed, Browser closed*****
+2018-05-03 13:18:21,621 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-03 13:18:25,509 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-03 13:18:27,412 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-03 13:18:35,138 - TestBaseClass -INFO - clicked on revoke btn
+2018-05-03 13:18:37,308 - TestBaseClass -INFO - ***** BeHO_TC_001 Test case completed, Browser closed*****
+2018-05-03 13:20:37,669 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-03 13:20:41,519 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-03 13:20:43,413 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-03 13:20:50,783 - TestBaseClass -INFO - clicked on revoke btn
+2018-05-03 13:20:52,947 - TestBaseClass -INFO - ***** BeHO_TC_001 Test case completed, Browser closed*****
+2018-05-03 13:20:55,588 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-03 13:20:59,264 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-03 13:21:01,096 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-03 13:21:08,301 - TestBaseClass -INFO - clicked on revoke btn
+2018-05-03 13:21:10,570 - TestBaseClass -INFO - ***** BeHO_TC_001 Test case completed, Browser closed*****
+2018-05-03 13:21:13,304 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-03 13:21:16,998 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-03 13:21:18,875 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-03 13:21:26,313 - TestBaseClass -INFO - clicked on revoke btn
+2018-05-03 13:21:28,438 - TestBaseClass -INFO - ***** BeHO_TC_001 Test case completed, Browser closed*****
+2018-05-03 13:21:31,289 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-03 13:21:35,060 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-03 13:21:36,823 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-03 13:21:44,352 - TestBaseClass -INFO - clicked on revoke btn
+2018-05-03 13:21:46,348 - TestBaseClass -INFO - ***** BeHO_TC_001 Test case completed, Browser closed*****
+2018-05-03 13:21:48,881 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-03 13:21:52,497 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-03 13:21:54,272 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-03 13:22:02,263 - TestBaseClass -INFO - clicked on revoke btn
+2018-05-03 13:22:04,474 - TestBaseClass -INFO - ***** BeHO_TC_001 Test case completed, Browser closed*****
+2018-05-03 13:22:06,953 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-03 13:22:10,460 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-03 13:22:12,186 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-03 13:22:19,401 - TestBaseClass -INFO - clicked on revoke btn
+2018-05-03 13:22:21,423 - TestBaseClass -INFO - ***** BeHO_TC_001 Test case completed, Browser closed*****
+2018-05-03 13:22:23,896 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-03 13:22:28,193 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-03 13:22:29,970 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-03 13:22:37,079 - TestBaseClass -INFO - clicked on revoke btn
+2018-05-03 13:22:39,038 - TestBaseClass -INFO - ***** BeHO_TC_001 Test case completed, Browser closed*****
+2018-05-03 13:22:41,572 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-03 13:22:45,841 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-03 13:22:47,650 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-03 13:22:55,221 - TestBaseClass -INFO - clicked on revoke btn
+2018-05-03 13:22:57,360 - TestBaseClass -INFO - ***** BeHO_TC_001 Test case completed, Browser closed*****
+2018-05-03 13:22:59,934 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-03 13:23:04,231 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-03 13:23:06,245 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-03 13:23:13,486 - TestBaseClass -INFO - clicked on revoke btn
+2018-05-03 13:23:15,671 - TestBaseClass -INFO - ***** BeHO_TC_001 Test case completed, Browser closed*****
+2018-05-03 13:23:18,236 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-03 13:23:22,197 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-03 13:23:24,124 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-03 13:23:31,270 - TestBaseClass -INFO - clicked on revoke btn
+2018-05-03 13:23:33,376 - TestBaseClass -INFO - ***** BeHO_TC_001 Test case completed, Browser closed*****
+2018-05-03 13:23:36,133 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-03 13:23:40,140 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-03 13:23:42,051 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-03 13:23:48,970 - TestBaseClass -INFO - clicked on revoke btn
+2018-05-03 13:23:51,226 - TestBaseClass -INFO - ***** BeHO_TC_001 Test case completed, Browser closed*****
+2018-05-03 13:23:54,240 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-03 13:23:57,992 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-03 13:23:59,810 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-03 13:24:06,788 - TestBaseClass -INFO - clicked on revoke btn
+2018-05-03 13:24:08,727 - TestBaseClass -INFO - ***** BeHO_TC_001 Test case completed, Browser closed*****
+2018-05-03 13:24:11,181 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-03 13:24:15,498 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-03 13:24:17,443 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-03 13:24:34,101 - TestBaseClass -INFO - ***** BeHO_TC_001 Test case completed, Browser closed*****
+2018-05-03 13:24:36,615 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-03 13:24:41,146 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-03 13:24:42,959 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-03 13:24:59,234 - TestBaseClass -INFO - ***** BeHO_TC_001 Test case completed, Browser closed*****
+2018-05-03 13:25:01,783 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-03 13:25:05,945 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-03 13:25:07,788 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-03 13:25:23,839 - TestBaseClass -INFO - ***** BeHO_TC_001 Test case completed, Browser closed*****
+2018-05-03 13:31:06,934 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-03 13:31:11,087 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-03 13:31:13,191 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-03 13:31:14,487 - TestBaseClass -INFO - *****Consent menu clicked*****
+2018-05-03 13:31:17,249 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-03 13:31:19,139 - TestBaseClass -INFO - *****entering patient policy details *****
+2018-05-03 13:31:31,592 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-03 13:31:33,490 - TestBaseClass -INFO - *****saved button clicked*****
+2018-05-03 13:31:35,572 - TestBaseClass -INFO - *****comment saved *****
+2018-05-03 13:31:37,159 - TestBaseClass -INFO - ***** policy activated *****
+2018-05-03 13:31:40,269 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-03 13:31:44,178 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-03 13:31:46,187 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-03 13:31:54,491 - TestBaseClass -INFO - clicked on revoke btn
+2018-05-03 13:36:32,923 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-03 13:36:37,084 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-03 13:36:41,021 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-03 13:36:43,263 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-03 13:36:44,537 - TestBaseClass -INFO - *****entered purpose of use maintenance page*****
+2018-05-03 13:36:45,814 - TestBaseClass -INFO - *****value added in purpose of use table *****
+2018-05-03 13:36:46,565 - TestBaseClass -INFO - *****BeHO_TC_006 Test case is done, Browser closed*****
+2018-05-03 13:38:38,334 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-03 13:38:42,194 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-03 13:38:44,397 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-03 13:38:45,574 - TestBaseClass -INFO - *****Management page clicked*****
+2018-05-03 13:38:48,094 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-03 13:38:49,966 - TestBaseClass -INFO - *****entering patient policy details *****
+2018-05-03 13:38:59,272 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-03 13:39:00,649 - TestBaseClass -INFO - *****saved button clicked*****
+2018-05-03 13:39:02,733 - TestBaseClass -INFO - *****comment saved *****
+2018-05-03 13:39:02,844 - TestBaseClass -INFO - *****read the text of dialog box*****
+2018-05-03 13:39:03,954 - TestBaseClass -INFO - ***** deny all policy created and activated *****
+2018-05-03 13:39:10,053 - TestBaseClass -INFO - *****Management page clicked*****
+2018-05-03 13:39:12,853 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-03 13:39:14,724 - TestBaseClass -INFO - *****entering patient policy details *****
+2018-05-03 13:39:24,024 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-03 13:39:25,482 - TestBaseClass -INFO - *****saved button clicked*****
+2018-05-03 13:39:27,559 - TestBaseClass -INFO - *****comment saved *****
+2018-05-03 13:39:27,786 - TestBaseClass -INFO - *****read the text of dialog box*****
+2018-05-03 13:39:28,824 - TestBaseClass -INFO - ***** Allow all policy created and activated *****
+2018-05-03 14:04:10,734 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-03 14:04:14,708 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-03 14:04:16,630 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-03 14:04:17,674 - TestBaseClass -INFO - *****Management page clicked*****
+2018-05-03 14:04:20,269 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-03 14:04:22,189 - TestBaseClass -INFO - *****entering patient policy details *****
+2018-05-03 14:04:32,003 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-03 14:04:33,539 - TestBaseClass -INFO - *****saved button clicked*****
+2018-05-03 14:04:35,582 - TestBaseClass -INFO - *****comment saved *****
+2018-05-03 14:04:35,672 - TestBaseClass -INFO - *****read the text of dialog box*****
+2018-05-03 14:04:36,870 - TestBaseClass -INFO - ***** deny all policy created and activated *****
+2018-05-03 14:04:42,822 - TestBaseClass -INFO - *****Management page clicked*****
+2018-05-03 14:04:45,618 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-03 14:04:47,327 - TestBaseClass -INFO - *****entering patient policy details *****
+2018-05-03 14:04:56,390 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-03 14:04:57,754 - TestBaseClass -INFO - *****saved button clicked*****
+2018-05-03 14:05:02,836 - TestBaseClass -INFO - *****comment saved *****
+2018-05-03 14:05:03,004 - TestBaseClass -INFO - *****read the text of dialog box*****
+2018-05-03 14:05:04,248 - TestBaseClass -INFO - ***** Allow all policy created and activated *****
+2018-05-03 14:08:44,265 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-03 14:08:49,224 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-03 14:08:51,267 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-03 14:08:52,725 - TestBaseClass -INFO - *****Management page clicked*****
+2018-05-03 14:08:55,414 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-03 14:08:57,704 - TestBaseClass -INFO - *****entering patient policy details *****
+2018-05-03 14:09:09,012 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-03 14:09:10,880 - TestBaseClass -INFO - *****saved button clicked*****
+2018-05-03 14:09:12,554 - TestBaseClass -INFO - *****comment saved *****
+2018-05-03 14:10:31,936 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-03 14:10:36,750 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-03 14:10:38,741 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-03 14:10:39,998 - TestBaseClass -INFO - *****Management page clicked*****
+2018-05-03 14:10:42,654 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-03 14:10:44,508 - TestBaseClass -INFO - *****entering patient policy details *****
+2018-05-03 14:10:55,508 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-03 14:10:57,601 - TestBaseClass -INFO - *****saved button clicked*****
+2018-05-03 14:11:00,318 - TestBaseClass -INFO - *****comment saved *****
+2018-05-03 14:11:00,420 - TestBaseClass -INFO - *****read the text of dialog box*****
+2018-05-03 14:11:01,753 - TestBaseClass -INFO - ***** deny all policy created and activated *****
+2018-05-03 14:11:07,702 - TestBaseClass -INFO - *****Management page clicked*****
+2018-05-03 14:11:10,524 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-03 14:11:12,570 - TestBaseClass -INFO - *****entering patient policy details *****
+2018-05-03 14:11:22,051 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-03 14:11:23,451 - TestBaseClass -INFO - *****saved button clicked*****
+2018-05-03 14:11:28,115 - TestBaseClass -INFO - *****comment saved *****
+2018-05-03 14:12:25,363 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-03 14:12:30,283 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-03 14:12:32,199 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-03 14:12:33,391 - TestBaseClass -INFO - *****Management page clicked*****
+2018-05-03 14:12:36,450 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-03 14:12:38,299 - TestBaseClass -INFO - *****entering patient policy details *****
+2018-05-03 14:12:48,309 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-03 14:12:49,954 - TestBaseClass -INFO - *****saved button clicked*****
+2018-05-03 14:12:52,237 - TestBaseClass -INFO - *****comment saved *****
+2018-05-03 14:12:52,355 - TestBaseClass -INFO - *****read the text of dialog box*****
+2018-05-03 14:12:53,593 - TestBaseClass -INFO - ***** deny all policy created and activated *****
+2018-05-03 14:12:59,639 - TestBaseClass -INFO - *****Management page clicked*****
+2018-05-03 14:13:02,371 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-03 14:13:04,264 - TestBaseClass -INFO - *****entering patient policy details *****
+2018-05-03 14:13:14,792 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-03 14:13:16,268 - TestBaseClass -INFO - *****saved button clicked*****
+2018-05-03 14:13:20,923 - TestBaseClass -INFO - *****comment saved *****
+2018-05-03 14:17:52,824 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-03 14:17:57,848 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-03 14:18:00,315 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-03 14:18:01,496 - TestBaseClass -INFO - *****Management page clicked*****
+2018-05-03 14:18:04,535 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-03 14:18:06,601 - TestBaseClass -INFO - *****entering patient policy details *****
+2018-05-03 14:18:16,783 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-03 14:18:18,280 - TestBaseClass -INFO - *****saved button clicked*****
+2018-05-03 14:18:20,863 - TestBaseClass -INFO - *****comment saved *****
+2018-05-03 14:18:20,984 - TestBaseClass -INFO - *****read the text of dialog box*****
+2018-05-03 14:18:22,230 - TestBaseClass -INFO - ***** deny all policy created and activated *****
+2018-05-03 14:18:28,792 - TestBaseClass -INFO - *****Management page clicked*****
+2018-05-03 14:18:32,105 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-03 14:18:34,297 - TestBaseClass -INFO - *****entering patient policy details *****
+2018-05-03 14:18:43,750 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-03 14:18:45,771 - TestBaseClass -INFO - *****saved button clicked*****
+2018-05-03 14:18:50,251 - TestBaseClass -INFO - *****comment saved *****
+2018-05-03 15:55:30,199 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-03 15:55:37,224 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-03 15:55:39,627 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-04 06:50:22,245 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-04 06:50:22,510 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-04 06:50:22,520 - com.BusyQa.Hipaat.TestCases.BeHO_TC_009 -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-04 06:50:22,531 - com.BusyQa.Hipaat.TestCases.BeHO_TC_011 -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-04 06:50:22,540 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-04 06:50:22,548 - com.BusyQa.Hipaat.TestCases.BeHO_TC_017 -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-04 06:50:28,436 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-04 06:50:32,922 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-04 06:50:35,268 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-04 06:50:36,779 - TestBaseClass -INFO - *****Consent menu clicked*****
+2018-05-04 06:50:40,314 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-04 06:50:43,086 - TestBaseClass -INFO - *****entering patient policy details *****
+2018-05-04 06:50:56,999 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-04 06:50:59,258 - TestBaseClass -INFO - *****saved button clicked*****
+2018-05-04 06:51:01,935 - TestBaseClass -INFO - *****comment saved *****
+2018-05-04 06:51:03,758 - TestBaseClass -INFO - ***** policy activated *****
+2018-05-04 06:51:04,503 - TestBaseClass -INFO - ***** BeHO_TC_001 Test case completed, Browser closed*****
+2018-05-04 06:51:07,238 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-04 06:51:11,782 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-04 06:51:14,138 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-04 06:51:24,313 - TestBaseClass -INFO - clicked on revoke btn
+2018-05-04 06:51:27,127 - TestBaseClass -INFO - ***** BeHO_TC_001 Test case completed, Browser closed*****
+2018-05-04 06:51:30,105 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-04 06:51:34,479 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-04 06:51:36,770 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-04 06:51:38,486 - TestBaseClass -INFO - *****entered purpose of use maintenance page*****
+2018-05-04 06:51:40,294 - TestBaseClass -INFO - *****value added in purpose of use table *****
+2018-05-04 06:51:41,049 - TestBaseClass -INFO - *****BeHO_TC_006 Test case is done, Browser closed*****
+2018-05-04 06:51:43,772 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-04 06:51:48,441 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-04 06:51:51,159 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-04 06:51:53,870 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-04 06:51:58,794 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****browser is successfully initialised*****
+2018-05-04 06:52:01,240 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****login is successfully done*****
+2018-05-04 06:52:02,611 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****entered security alerts search page*****
+2018-05-04 06:52:08,850 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****clicked search button*****
+2018-05-04 06:52:16,284 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****Rows & Cols Count *****
+2018-05-04 06:52:17,010 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****BeHO_TC_008 Test case is done, Browser closed*****
+2018-05-04 06:52:20,388 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-04 06:52:24,853 - com.BusyQa.Hipaat.TestCases.BeHO_TC_009 -INFO - *****browser is successfully initialised*****
+2018-05-04 06:52:27,088 - com.BusyQa.Hipaat.TestCases.BeHO_TC_009 -INFO - *****login is successfully done*****
+2018-05-04 06:52:28,866 - com.BusyQa.Hipaat.TestCases.BeHO_TC_009 -INFO - *****entered security alerts search page*****
+2018-05-04 06:52:35,714 - com.BusyQa.Hipaat.TestCases.BeHO_TC_009 -INFO - *****clicked search button*****
+2018-05-04 06:52:35,978 - com.BusyQa.Hipaat.TestCases.BeHO_TC_009 -INFO - *****message id checked*****
+2018-05-04 06:52:46,758 - com.BusyQa.Hipaat.TestCases.BeHO_TC_009 -INFO - *****BeHO_TC_009 Test case is done, Browser closed*****
+2018-05-04 06:52:49,387 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-04 06:52:53,859 - com.BusyQa.Hipaat.TestCases.BeHO_TC_011 -INFO - *****browser is successfully initialised*****
+2018-05-04 06:52:56,433 - com.BusyQa.Hipaat.TestCases.BeHO_TC_011 -INFO - *****login is successfully done*****
+2018-05-04 06:52:59,716 - com.BusyQa.Hipaat.TestCases.BeHO_TC_011 -INFO - *****entered Policy Reports page*****
+2018-05-04 06:53:05,863 - com.BusyQa.Hipaat.TestCases.BeHO_TC_011 -INFO - *****added patient button*****
+2018-05-04 06:53:09,042 - com.BusyQa.Hipaat.TestCases.BeHO_TC_011 -INFO - *****BeHO_TC_011 Test case is done, Browser closed*****
+2018-05-04 06:53:12,116 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-04 06:53:16,351 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-04 06:53:18,510 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-04 06:53:20,944 - TestBaseClass -INFO - *****entered Policy Reports page*****
+2018-05-04 06:53:26,798 - TestBaseClass -INFO - *****added patient button*****
+2018-05-04 06:53:39,392 - TestBaseClass -INFO - *****BeHO_TC_016 Test case is done, Browser closed*****
+2018-05-04 06:53:43,633 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-04 06:53:48,093 - com.BusyQa.Hipaat.TestCases.BeHO_TC_017 -INFO - *****browser is successfully initialised*****
+2018-05-04 06:53:50,619 - com.BusyQa.Hipaat.TestCases.BeHO_TC_017 -INFO - *****login is successfully done*****
+2018-05-04 06:53:52,463 - com.BusyQa.Hipaat.TestCases.BeHO_TC_017 -INFO - *****entered Audit Reports page*****
+2018-05-04 06:53:59,341 - com.BusyQa.Hipaat.TestCases.BeHO_TC_017 -INFO - *****BeHO_TC_017 Test case is done, Browser closed*****
+2018-05-04 06:54:02,310 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-04 06:54:06,633 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****browser is successfully initialised*****
+2018-05-04 06:54:08,964 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****login is successfully done*****
+2018-05-04 06:54:10,879 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****entered session management page *****
+2018-05-04 06:54:11,719 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****clear error messages button clicked *****
+2018-05-04 06:54:16,187 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-04 06:54:22,671 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-04 06:54:25,434 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-04 06:54:27,512 - TestBaseClass -INFO - *****entered Help page*****
+2018-05-04 06:54:31,394 - TestBaseClass -INFO - *****BeHO_TC_020 Test case is done, Browser closed*****
+2018-05-04 06:54:36,477 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-04 06:54:40,591 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-04 06:54:43,093 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-04 06:54:44,555 - TestBaseClass -INFO - *****Management page clicked *****
+2018-05-04 06:54:45,978 - TestBaseClass -INFO - *****entered Help page*****
+2018-05-04 06:54:50,726 - TestBaseClass -INFO - *****BeHO_TC_021 Test case is done, Browser closed*****
+2018-05-04 06:54:54,610 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-04 06:54:58,768 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-04 06:55:01,164 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-04 06:55:03,611 - TestBaseClass -INFO - *****entered Policy Reports page*****
+2018-05-04 06:55:04,016 - TestBaseClass -INFO - *****entered Help page*****
+2018-05-04 06:55:07,941 - TestBaseClass -INFO - *****BeHO_TC_022 Test case is done, Browser closed*****
+2018-05-04 09:49:59,718 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-04 09:49:59,815 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-04 09:49:59,840 - com.BusyQa.Hipaat.TestCases.BeHO_TC_009 -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-04 09:49:59,882 - com.BusyQa.Hipaat.TestCases.BeHO_TC_011 -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-04 09:49:59,893 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-04 09:49:59,905 - com.BusyQa.Hipaat.TestCases.BeHO_TC_017 -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-04 09:50:10,071 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-04 09:50:15,395 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-04 09:50:18,267 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-04 09:50:20,279 - TestBaseClass -INFO - *****Consent menu clicked*****
+2018-05-04 09:50:24,874 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-04 09:50:28,443 - TestBaseClass -INFO - *****entering patient policy details *****
+2018-05-04 09:50:47,848 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-04 09:50:51,126 - TestBaseClass -INFO - *****saved button clicked*****
+2018-05-04 09:50:54,817 - TestBaseClass -INFO - *****comment saved *****
+2018-05-04 09:50:57,530 - TestBaseClass -INFO - ***** policy activated *****
+2018-05-04 09:50:58,592 - TestBaseClass -INFO - ***** BeHO_TC_001 Test case completed, Browser closed*****
+2018-05-04 09:51:03,000 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-04 09:51:08,028 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-04 09:51:10,996 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-04 09:51:33,682 - TestBaseClass -INFO - ***** BeHO_TC_001 Test case completed, Browser closed*****
+2018-05-04 09:51:37,629 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-04 09:51:42,613 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-04 09:51:46,633 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-04 09:51:48,476 - TestBaseClass -INFO - *****BeHO_TC_006 Test case is done, Browser closed*****
+2018-05-04 09:51:52,616 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-04 09:51:58,185 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-04 09:52:01,102 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-04 09:52:04,973 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-04 09:52:10,111 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****browser is successfully initialised*****
+2018-05-04 09:52:12,537 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****login is successfully done*****
+2018-05-04 09:52:13,807 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****entered security alerts search page*****
+2018-05-04 09:52:20,979 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****clicked search button*****
+2018-05-04 09:52:30,682 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****Rows & Cols Count *****
+2018-05-04 09:52:31,535 - com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -INFO - *****BeHO_TC_008 Test case is done, Browser closed*****
+2018-05-04 09:52:37,416 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-04 09:52:42,465 - com.BusyQa.Hipaat.TestCases.BeHO_TC_009 -INFO - *****browser is successfully initialised*****
+2018-05-04 09:52:44,878 - com.BusyQa.Hipaat.TestCases.BeHO_TC_009 -INFO - *****login is successfully done*****
+2018-05-04 09:52:46,440 - com.BusyQa.Hipaat.TestCases.BeHO_TC_009 -INFO - *****entered security alerts search page*****
+2018-05-04 09:52:53,358 - com.BusyQa.Hipaat.TestCases.BeHO_TC_009 -INFO - *****clicked search button*****
+2018-05-04 09:52:53,630 - com.BusyQa.Hipaat.TestCases.BeHO_TC_009 -INFO - *****message id checked*****
+2018-05-04 09:53:04,617 - com.BusyQa.Hipaat.TestCases.BeHO_TC_009 -INFO - *****BeHO_TC_009 Test case is done, Browser closed*****
+2018-05-04 09:53:08,195 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-04 09:53:12,641 - com.BusyQa.Hipaat.TestCases.BeHO_TC_011 -INFO - *****browser is successfully initialised*****
+2018-05-04 09:53:14,913 - com.BusyQa.Hipaat.TestCases.BeHO_TC_011 -INFO - *****login is successfully done*****
+2018-05-04 09:53:17,894 - com.BusyQa.Hipaat.TestCases.BeHO_TC_011 -INFO - *****entered Policy Reports page*****
+2018-05-04 09:53:24,285 - com.BusyQa.Hipaat.TestCases.BeHO_TC_011 -INFO - *****added patient button*****
+2018-05-04 09:53:27,495 - com.BusyQa.Hipaat.TestCases.BeHO_TC_011 -INFO - *****BeHO_TC_011 Test case is done, Browser closed*****
+2018-05-04 09:53:30,981 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-04 09:53:35,756 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-04 09:53:39,409 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-04 09:53:42,619 - TestBaseClass -INFO - *****entered Policy Reports page*****
+2018-05-04 09:53:48,955 - TestBaseClass -INFO - *****added patient button*****
+2018-05-04 09:54:01,510 - TestBaseClass -INFO - *****BeHO_TC_016 Test case is done, Browser closed*****
+2018-05-04 09:54:04,976 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-04 09:54:09,067 - com.BusyQa.Hipaat.TestCases.BeHO_TC_017 -INFO - *****browser is successfully initialised*****
+2018-05-04 09:54:11,311 - com.BusyQa.Hipaat.TestCases.BeHO_TC_017 -INFO - *****login is successfully done*****
+2018-05-04 09:54:12,879 - com.BusyQa.Hipaat.TestCases.BeHO_TC_017 -INFO - *****entered Audit Reports page*****
+2018-05-04 09:54:20,961 - com.BusyQa.Hipaat.TestCases.BeHO_TC_017 -INFO - *****BeHO_TC_017 Test case is done, Browser closed*****
+2018-05-04 09:54:24,292 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-04 09:54:28,478 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****browser is successfully initialised*****
+2018-05-04 09:54:30,680 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****login is successfully done*****
+2018-05-04 09:54:31,951 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****entered session management page *****
+2018-05-04 09:54:32,783 - com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -INFO - *****clear error messages button clicked *****
+2018-05-04 09:54:37,833 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-04 09:54:43,175 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-04 09:54:45,462 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-04 09:54:47,511 - TestBaseClass -INFO - *****entered Help page*****
+2018-05-04 09:54:51,069 - TestBaseClass -INFO - *****BeHO_TC_020 Test case is done, Browser closed*****
+2018-05-04 09:54:56,230 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-04 09:55:00,328 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-04 09:55:02,665 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-04 09:55:04,108 - TestBaseClass -INFO - *****Management page clicked *****
+2018-05-04 09:55:05,488 - TestBaseClass -INFO - *****entered Help page*****
+2018-05-04 09:55:10,740 - TestBaseClass -INFO - *****BeHO_TC_021 Test case is done, Browser closed*****
+2018-05-04 09:55:14,714 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-04 09:55:18,988 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-04 09:55:21,319 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-04 09:55:23,878 - TestBaseClass -INFO - *****entered Policy Reports page*****
+2018-05-04 09:55:24,241 - TestBaseClass -INFO - *****entered Help page*****
+2018-05-04 09:55:28,239 - TestBaseClass -INFO - *****BeHO_TC_022 Test case is done, Browser closed*****
+2018-05-04 10:06:40,712 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-04 10:06:47,255 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-04 10:06:50,598 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-04 10:08:18,135 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-04 10:08:23,851 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-04 10:08:26,438 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-04 10:08:28,037 - TestBaseClass -INFO - *****Management page clicked*****
+2018-05-04 10:08:32,056 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-04 10:08:34,876 - TestBaseClass -INFO - *****entering patient policy details *****
+2018-05-04 10:08:52,143 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-04 10:08:54,523 - TestBaseClass -INFO - *****saved button clicked*****
+2018-05-04 10:08:57,246 - TestBaseClass -INFO - *****comment saved *****
+2018-05-04 10:08:57,371 - TestBaseClass -INFO - *****read the text of dialog box*****
+2018-05-04 10:08:59,237 - TestBaseClass -INFO - ***** deny all policy created and activated *****
+2018-05-04 10:09:05,821 - TestBaseClass -INFO - *****Management page clicked*****
+2018-05-04 10:09:09,281 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-04 10:09:12,201 - TestBaseClass -INFO - *****entering patient policy details *****
+2018-05-04 10:09:26,554 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-04 10:09:28,911 - TestBaseClass -INFO - *****saved button clicked*****
+2018-05-04 10:09:31,135 - TestBaseClass -INFO - *****comment saved *****
+2018-05-04 10:11:13,632 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-04 10:11:20,412 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-04 10:11:25,048 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-04 10:11:27,901 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-04 10:11:29,393 - TestBaseClass -INFO - *****entered security alerts search page*****
+2018-05-04 10:11:36,347 - TestBaseClass -INFO - *****clicked search button*****
+2018-05-04 10:11:36,705 - TestBaseClass -INFO - *****message id checked*****
+2018-05-04 10:11:47,708 - TestBaseClass -INFO - *****BeHO_TC_009 Test case is done, Browser closed*****
+2018-05-04 10:12:50,220 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-04 10:12:55,656 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-04 10:13:00,015 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-04 10:13:02,676 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-04 10:13:04,254 - TestBaseClass -INFO - *****entered security alerts search page*****
+2018-05-04 10:13:11,116 - TestBaseClass -INFO - *****clicked search button*****
+2018-05-04 10:13:11,395 - TestBaseClass -INFO - *****message id checked*****
+2018-05-04 10:24:15,445 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-04 10:24:20,779 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-04 10:24:26,223 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-04 10:24:29,025 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-04 10:24:30,605 - TestBaseClass -INFO - *****entered security alerts search page*****
+2018-05-04 10:24:37,586 - TestBaseClass -INFO - *****clicked search button*****
+2018-05-04 10:24:39,107 - TestBaseClass -INFO - *****message id checked*****
+2018-05-04 10:24:40,139 - TestBaseClass -INFO - *****clicked acknowledged button*****
+2018-05-04 10:24:46,885 - TestBaseClass -INFO - *****clicked back button*****
+2018-05-04 10:27:18,671 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-04 10:27:24,588 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-04 10:27:29,502 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-04 10:27:32,809 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-04 10:27:35,468 - TestBaseClass -INFO - *****entered Policy Reports page*****
+2018-05-04 10:27:41,913 - TestBaseClass -INFO - *****added patient button*****
+2018-05-04 10:27:54,660 - TestBaseClass -INFO - *****BeHO_TC_016 Test case is done, Browser closed*****
+2018-05-04 10:29:57,104 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-04 10:30:03,170 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-04 10:30:08,017 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-04 10:30:10,778 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-04 10:30:13,544 - TestBaseClass -INFO - *****entered Policy Reports page*****
+2018-05-04 10:30:19,904 - TestBaseClass -INFO - *****added patient button*****
+2018-05-04 10:59:21,205 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-04 10:59:21,309 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-04 10:59:21,335 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-04 10:59:21,358 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-04 10:59:21,375 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-04 10:59:21,393 - com.BusyQa.Hipaat.TestCases.BeHO_TC_017 -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-04 11:00:57,076 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-04 11:00:57,149 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-04 11:00:57,173 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-04 11:00:57,202 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-04 11:00:57,226 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-04 11:00:57,252 - com.BusyQa.Hipaat.TestCases.BeHO_TC_017 -INFO - *****parent class constructor called and properties file initiated*****
